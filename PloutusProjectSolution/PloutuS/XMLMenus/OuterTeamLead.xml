@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<menu>
+  <menuItem>
+    <text>Home</text>
+    <url>homepage.aspx</url>
+    <mouseoverimage>/Images/POINT05.ICO</mouseoverimage>
+  </menuItem>
+  <menuItem>
+    <text>QA</text>
+    <subMenu>
+      <menuItem>
+        <text>Assignment</text>
+        <url>agent/QAAssignment.aspx</url>
+        <mouseoverimage>/Images/POINT05.ICO</mouseoverimage>
+      </menuItem>
+      <menuItem>
+        <text>UnAssignment</text>
+        <url>agent/QAUnAssignment.aspx</url>
+        <mouseoverimage>/Images/POINT05.ICO</mouseoverimage>
+      </menuItem>
+    </subMenu>
+  </menuItem>
+  <menuItem>
+    <text>Call transfer Leads</text>
+    <url>agent/ht.aspx</url>
+    <mouseoverimage>/Images/POINT05.ICO</mouseoverimage>
+  </menuItem>
+  <menuItem>
+    <text>Reports</text>
+    <subMenu>
+      <menuItem>
+        <text>Status</text>
+        <url>agent/tlhomepage.aspx</url>
+        <mouseoverimage>/Images/POINT05.ICO</mouseoverimage>
+      </menuItem>
+      <menuItem>
+        <text>Daily Report</text>
+        <url>agent/reports.aspx</url>
+        <mouseoverimage>/Images/POINT05.ICO</mouseoverimage>
+      </menuItem>
+      <menuItem>
+        <text>Productvity Report</text>
+        <url>agent/FinalReports.aspx</url>
+        <mouseoverimage>/Images/POINT05.ICO</mouseoverimage>
+      </menuItem>
+      <menuItem>
+        <text>Lead Report</text>
+        <url>agent/AgentReports.aspx</url>
+        <mouseoverimage>/Images/POINT05.ICO</mouseoverimage>
+      </menuItem>
+    </subMenu>
+  </menuItem>
+</menu>

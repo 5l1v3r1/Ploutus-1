@@ -1,0 +1,76 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "PloutuS(4)", "http://localhost:60942", "{2D52F987-ADF6-402C-8B9A-F1130E86ABBC}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		ProjectReferences = "{55d2d244-2854-4c7a-97dc-79e5c12c09eb}|BA_Ploutos.dll;{DD9E4FE2-C1DD-4187-A310-DD0B716A6D12}|BE_Ploutos.dll;{B5F63DE6-128B-41B4-B2F7-29574D7CA568}|DA_Ploutos.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_60942"
+		Debug.AspNetCompiler.PhysicalPath = "..\PloutuS\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60942\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_60942"
+		Release.AspNetCompiler.PhysicalPath = "..\PloutuS\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60942\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\PloutuS\"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DA_Ploutos", "..\DA_Ploutos\DA_Ploutos.csproj", "{B5F63DE6-128B-41B4-B2F7-29574D7CA568}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BE_Ploutos", "..\BE_Ploutos\BE_Ploutos.csproj", "{DD9E4FE2-C1DD-4187-A310-DD0B716A6D12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BA_Ploutos", "..\BA_Ploutos\BA_Ploutos.csproj", "{55D2D244-2854-4C7A-97DC-79E5C12C09EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D52F987-ADF6-402C-8B9A-F1130E86ABBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D52F987-ADF6-402C-8B9A-F1130E86ABBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D52F987-ADF6-402C-8B9A-F1130E86ABBC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2D52F987-ADF6-402C-8B9A-F1130E86ABBC}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D52F987-ADF6-402C-8B9A-F1130E86ABBC}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{2D52F987-ADF6-402C-8B9A-F1130E86ABBC}.Release|x86.ActiveCfg = Debug|Any CPU
+		{B5F63DE6-128B-41B4-B2F7-29574D7CA568}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5F63DE6-128B-41B4-B2F7-29574D7CA568}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5F63DE6-128B-41B4-B2F7-29574D7CA568}.Debug|x86.ActiveCfg = Debug|x86
+		{B5F63DE6-128B-41B4-B2F7-29574D7CA568}.Debug|x86.Build.0 = Debug|x86
+		{B5F63DE6-128B-41B4-B2F7-29574D7CA568}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5F63DE6-128B-41B4-B2F7-29574D7CA568}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5F63DE6-128B-41B4-B2F7-29574D7CA568}.Release|x86.ActiveCfg = Release|x86
+		{B5F63DE6-128B-41B4-B2F7-29574D7CA568}.Release|x86.Build.0 = Release|x86
+		{DD9E4FE2-C1DD-4187-A310-DD0B716A6D12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD9E4FE2-C1DD-4187-A310-DD0B716A6D12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD9E4FE2-C1DD-4187-A310-DD0B716A6D12}.Debug|x86.ActiveCfg = Debug|x86
+		{DD9E4FE2-C1DD-4187-A310-DD0B716A6D12}.Debug|x86.Build.0 = Debug|x86
+		{DD9E4FE2-C1DD-4187-A310-DD0B716A6D12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD9E4FE2-C1DD-4187-A310-DD0B716A6D12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD9E4FE2-C1DD-4187-A310-DD0B716A6D12}.Release|x86.ActiveCfg = Release|x86
+		{DD9E4FE2-C1DD-4187-A310-DD0B716A6D12}.Release|x86.Build.0 = Release|x86
+		{55D2D244-2854-4C7A-97DC-79E5C12C09EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55D2D244-2854-4C7A-97DC-79E5C12C09EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55D2D244-2854-4C7A-97DC-79E5C12C09EB}.Debug|x86.ActiveCfg = Debug|x86
+		{55D2D244-2854-4C7A-97DC-79E5C12C09EB}.Debug|x86.Build.0 = Debug|x86
+		{55D2D244-2854-4C7A-97DC-79E5C12C09EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55D2D244-2854-4C7A-97DC-79E5C12C09EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55D2D244-2854-4C7A-97DC-79E5C12C09EB}.Release|x86.ActiveCfg = Release|x86
+		{55D2D244-2854-4C7A-97DC-79E5C12C09EB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

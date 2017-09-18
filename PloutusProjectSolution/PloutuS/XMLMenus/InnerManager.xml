@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<menu>
+  <menuItem>
+    <text>Home</text>
+    <url>../Homepage.aspx</url>
+    <mouseoverimage>/Images/POINT05.ICO</mouseoverimage>
+  </menuItem>
+  <menuItem>
+    <text>Registration</text>
+    <url>Homepage.aspx</url>
+    <mouseoverimage>/Images/POINT05.ICO</mouseoverimage>
+  </menuItem>
+  <!--<menuItem>
+    <text>News Room</text>
+    <subMenu>
+      <menuItem>
+        <text>News Home</text>
+        <url>NewsOverView.aspx</url>
+        <mouseoverimage>/Images/POINT05.ICO</mouseoverimage>
+      </menuItem>  
+      <menuItem>
+        <text>News Modify/Delete</text>
+        <url>ModifyNews.aspx</url>
+        <mouseoverimage>/Images/POINT05.ICO</mouseoverimage>
+      </menuItem>
+    </subMenu>
+  </menuItem>-->
+</menu>

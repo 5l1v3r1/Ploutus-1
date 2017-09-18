@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<menu>
+  <menuItem>
+    <text>Home</text>
+    <url>../Marketing/MarketingHomePage.aspx</url>
+    <mouseoverimage>/Images/POINT05.ICO</mouseoverimage>
+  </menuItem>
+  <menuItem>
+    <text>Profiles</text>
+
+    <subMenu>
+      <menuItem>
+        <text>View Profiles</text>
+        <url>../Marketing/ViewUploadedResumes.aspx</url>
+        <mouseoverimage>/Images/POINT05.ICO</mouseoverimage>
+      </menuItem>
+      <menuItem>
+        <text>Upload Profiles</text>
+        <url>../Marketing/MrktMngrUploadResumes.aspx</url>
+        <mouseoverimage>/Images/POINT05.ICO</mouseoverimage>
+      </menuItem>
+
+      <!--<menuItem>
+        <text>Selected Candidates</text>
+        <url>../Marketing/AcceptedCanlist.aspx</url>
+        <mouseoverimage>/Images/POINT05.ICO</mouseoverimage>
+      </menuItem>
+        <menuItem>
+          <text>Rejected Candidates</text>
+          <url>../Marketing/RejectCanList.aspx</url>
+          <mouseoverimage>/Images/POINT05.ICO</mouseoverimage>
+          
+        </menuItem>-->
+
+    </subMenu>
+  </menuItem>
+
+  <menuItem>
+    <text>Clients</text>
+    <subMenu>
+      <menuItem>
+        <text>View Clients</text>
+        <url>../Marketing/ViewClientsList.aspx</url>
+        <mouseoverimage>/Images/POINT05.ICO</mouseoverimage>
+      </menuItem>
+      <menuItem>
+        <text>Add Clients</text>
+        <url>../Marketing/AddClients.aspx</url>
+        <mouseoverimage>/Images/POINT05.ICO</mouseoverimage>
+      </menuItem>
+
+    </subMenu>
+  </menuItem>
+  <!--<menuItem>
+    <text>Clients</text>
+    <subMenu>
+      <menuItem>
+        <text>Hired Candidate</text>
+        <url>../Marketing/HiringProcess.aspx</url>
+        <mouseoverimage>/Images/POINT05.ICO</mouseoverimage>
+      </menuItem>
+      <menuItem>
+        <text>Companys List</text>
+        <url>../Marketing/Companys List.aspx</url>
+        <mouseoverimage>/Images/POINT05.ICO</mouseoverimage>
+      </menuItem>
+    </subMenu>
+    </menuItem>
+  <menuItem>
+    <text>Time Sheet Reports</text>
+    <subMenu>
+      <menuItem>
+        <text>Time Management</text>
+        <url>../Marketing/TimeManagement.aspx</url>
+        <mouseoverimage>/Images/POINT05.ICO</mouseoverimage>
+      </menuItem>
+      <menuItem>
+        <text>TimeSheet Report</text>
+        <url>../Marketing/TimeSheetReport.aspx</url>
+        <mouseoverimage>/Images/POINT05.ICO</mouseoverimage>
+      </menuItem>
+    </subMenu>
+  </menuItem>
+  <menuItem>
+    <text>Mails</text>
+    <subMenu>
+      <menuItem>
+        <text>Sent Mails</text>
+        <url>../Marketing/SentMails.aspx</url>
+        <mouseoverimage>/Images/POINT05.ICO</mouseoverimage>
+      </menuItem>
+      
+    </subMenu>
+   
+ 
+  </menuItem>-->
+</menu>

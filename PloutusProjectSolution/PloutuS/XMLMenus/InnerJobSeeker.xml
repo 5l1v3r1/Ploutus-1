@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<menu>
+  <menuItem>
+    <text>Home</text>
+    <url>../JobSeeker/UserHome.aspx</url>
+    <mouseoverimage>/Images/POINT05.ICO</mouseoverimage>
+  </menuItem>
+  <menuItem>
+    <text> Search Jobs</text>
+    <subMenu>
+      <menuItem>
+        <text>Find Jobs</text>
+        <url>../JobSeeker/JobSeekerCategoriesMain.aspx</url>
+        <mouseoverimage>/Images/POINT05.ICO</mouseoverimage>
+      </menuItem>
+      <menuItem>
+        <text>Applied Jobs</text>
+        <url>../JobSeeker/JobSeekerAppliedJobs.aspx</url>
+        <mouseoverimage>/Images/POINT05.ICO</mouseoverimage>
+      </menuItem>
+    </subMenu>
+         </menuItem>
+  <menuItem>
+    <text> Profile</text>
+    <subMenu>
+      <menuItem>
+      <text> View Profile</text>
+      <url>../JobSeeker/ViewProfile.aspx</url>
+      <mouseoverimage>/Images/POINT05.ICO</mouseoverimage>
+      </menuItem>
+      <menuItem>
+        <text>Update Resume</text>
+        <url>../JobSeeker/UploadResume.aspx</url>
+        <mouseoverimage>/Images/POINT05.ICO</mouseoverimage>
+      </menuItem>
+    </subMenu>
+  </menuItem>
+</menu>

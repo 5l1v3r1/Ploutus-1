@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<menu>
+  <!--<menuItem>
+    <text>Home</text>
+    <url>../HomePage.aspx</url>
+    <mouseoverimage>/Images/POINT05.ICO</mouseoverimage>
+  </menuItem>-->
+  <menuItem>
+    <text>Home</text>
+    <url>../homepage.aspx</url>
+    <mouseoverimage>/Images/POINT05.ICO</mouseoverimage>
+  </menuItem>
+  <menuItem>
+    <text>View Torts</text>
+    <url>QAhome.aspx</url>
+    <mouseoverimage>/Images/POINT05.ICO</mouseoverimage>
+  </menuItem>
+  <menuItem>
+    <text>HTNew</text>
+    <url>agent/TLHomePage.aspx</url>
+    <mouseoverimage>/Images/POINT05.ICO</mouseoverimage>
+  </menuItem>
+  <!--<menuItem>
+    <text>Torts</text>
+    <subMenu>
+      <menuItem>
+        <text>New</text>
+        <url>torts.aspx</url>
+        <mouseoverimage>/Images/POINT05.ICO</mouseoverimage>
+      </menuItem>
+      <menuItem>
+        <text>View</text>
+        <url>torts.aspx</url>
+        <mouseoverimage>/Images/POINT05.ICO</mouseoverimage>
+      </menuItem>
+    </subMenu>
+
+  </menuItem>-->
+  <!--<menuItem>
+    <text>QATorts</text>
+    <url>agent/QAtorts.aspx</url>
+    <mouseoverimage>/Images/POINT05.ICO</mouseoverimage>
+  </menuItem>-->
+  <!--<menuItem>
+    <text>News Room</text>
+    <subMenu>
+      <menuItem>
+        <text>News Home</text>
+        <url>NewsOverView.aspx</url>
+        <mouseoverimage>/Images/POINT05.ICO</mouseoverimage>
+      </menuItem>  
+      <menuItem>
+        <text>News Modify/Delete</text>
+        <url>ModifyNews.aspx</url>
+        <mouseoverimage>/Images/POINT05.ICO</mouseoverimage>
+      </menuItem>
+    </subMenu>
+  </menuItem>-->
+</menu>

@@ -1,0 +1,36 @@
+
+.header
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #333333;
+	font-style: normal;
+	vertical-align: middle;
+	text-align: center;
+}
+body
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	background-color: #F5C700;
+}
+.body-text
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #333333;
+	line-height: 20px;
+}
+.body-text-bold
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+}
+.border
+{
+	border: thin solid #FFCC00;
+}

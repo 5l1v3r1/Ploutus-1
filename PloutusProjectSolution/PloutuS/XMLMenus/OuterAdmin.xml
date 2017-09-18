@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<menu>
+  <menuItem>
+    <text>Home</text>
+    <url>Homepage.aspx</url>
+    <mouseoverimage>/Images/POINT05.ICO</mouseoverimage>
+  </menuItem>
+  <menuItem>
+    <text>Roles</text>
+    <url>Admin/RolesCreation.aspx</url>
+    <mouseoverimage>/Images/POINT05.ICO</mouseoverimage>
+  </menuItem>
+
+  <!--<menuItem>
+    <text>New Users</text>
+    <url>Admin/Reg.aspx</url>
+    <mouseoverimage>/Images/POINT05.ICO</mouseoverimage>
+  </menuItem>-->
+  <menuItem>
+    <text>Users</text>
+    <url>Admin/UsersDisplay.aspx</url>
+    <mouseoverimage>/Images/POINT05.ICO</mouseoverimage>
+  </menuItem>
+
+  <menuItem>
+    <text>Password Reset</text>
+    <url>Admin/ResetPwd.aspx</url>
+    <mouseoverimage>/Images/POINT05.ICO</mouseoverimage>
+  </menuItem>
+</menu>

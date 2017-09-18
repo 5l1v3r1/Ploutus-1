@@ -1,0 +1,330 @@
+html, body
+{
+	/*margin: .0 0 0 0;
+	padding: 0;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	background-color: #FFFFFF;
+	color: #333333;*/
+}
+
+* html body
+{
+	font-size: 100% !important;
+}
+
+#printLogo
+{
+	display: none;
+}
+
+form
+{
+	margin: 0;
+	padding: 0;
+}
+
+.div
+{
+	border: 1px solid #CCCCCC;
+	padding: 10px;
+	width: 300px; /*border-radius:25px;*/
+	-moz-border-radius: 25px; /* Firefox 3.6 and earlier */
+	margin-top: 12px;
+	margin-left: 0px;
+	background-color: #fcedbd;
+	height: 180px;
+}
+
+
+
+/* headdings */
+
+.h1, .h1 a, .h1 a:visited, .h1 a:hover
+{
+	font-size: 24px;
+	margin: 5px 0 5px 0;
+	background-color: inherit;
+	color: #CC0000;
+	text-decoration: none;
+}
+
+.h2
+{
+	position: relative;
+	font-size: 20px;
+	margin: 5px 0 5px 0;
+	background-color: inherit;
+	color: #CC0000;
+	text-decoration: none;
+	width: 100%;
+}
+
+.h2, .h2 a, .h2 a:visited
+{
+	font-size: 20px;
+	margin: 5px 0 5px 0;
+	background-color: inherit;
+	color: #CC0000;
+	text-decoration: none;
+}
+
+.h2 a:hover
+{
+	font-size: 20px;
+	margin: 5px 0 5px 0;
+	background-color: #DDD3E5;
+	color: #CC0000;
+	text-decoration: underline;
+}
+
+.h3
+{
+	position: relative;
+	font-size: 18px;
+	margin: 5px 0 5px 0;
+	background-color: inherit;
+	color: #CC0000;
+	text-decoration: none;
+	width: 100%;
+}
+.h4
+{
+	position: relative;
+	font-size: 16px;
+	margin: 5px 0 5px 0;
+	background-color: inherit;
+	color: #CC0000;
+	text-decoration: none;
+	width: 100%;
+}
+
+.h5
+{
+	position: relative;
+	font-size: 14px;
+	margin: 0;
+	padding: 0;
+	background-color: inherit;
+	color: #CC0000;
+	text-decoration: none;
+	width: 100%;
+}
+.h6
+{
+	position: relative;
+	font-size: 20px;
+	margin: 5px 0 5px 0;
+	background-color: inherit;
+	color: Black;
+	text-decoration: none;
+	width: 100%;
+}
+
+/* footer */
+
+
+#Footer
+{
+	display: block;
+	clear: both;
+	font-size: 10px;
+	margin: 0 21% 0 22%;
+	padding: 5px 0 0 0;
+	color: #666666;
+}
+
+
+/* body text */
+.bodytextbold
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #333333;
+	margin-top: 5px;
+	margin-right: 5px;
+	font-weight: bold;
+}
+
+.bodytext1
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #333333;
+	margin-top: 5px;
+	margin-right: 5px;
+}
+
+.bodytext
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #333333;
+	margin-top: 5px;
+	margin-right: 5px;
+}
+
+
+
+
+.divmiddle
+{
+	border: 2px solid #CCCCCC;
+	padding: 10px;
+	width: 300px; /*border-radius:25px;*/
+	-moz-border-radius: 25px; /* Firefox 3.6 and earlier */
+	margin-top: 12px;
+	margin-left: 0px;
+	background-color: #FFFFFF;
+	height: 180px;
+}
+
+
+
+/* buttons */
+.button
+{
+	border-top: 1px solid #ccc;
+	background: #f5f5f5;
+	color: #333333;
+	cursor: pointer;
+	font-size: 12px;
+	font-family: Georgia, serif;
+	text-decoration: none;
+	vertical-align: middle;
+}
+.button2
+{
+	font-size: 11px;
+	font-weight: bold;
+	color: black;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	border: 1 solid #666666;
+	height: 24px;
+	padding-left: 7px;
+	padding-right: 5px;
+	padding-bottom: 2px;
+	cursor: pointer;
+	float: none;
+	line-height: 18px;
+	background-color: white;
+	margin-top: 0;
+	margin-right: 0;
+	margin-bottom: 0;
+	margin-left: 5px;
+}
+.button1
+{
+	font-size: 11px;
+	font-weight: bold;
+	color: #FFFFFF;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	border: 1 solid #666666;
+	height: 24px;
+	padding-left: 7px;
+	padding-right: 5px;
+	padding-bottom: 2px;
+	cursor: pointer;
+	line-height: 18px;
+	background-color: #999999;
+	margin-top: 0;
+	margin-right: 0;
+	margin-bottom: 0;
+	margin-left: 5px;
+}
+.lable
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	color: #333333;
+}
+
+.textbox
+{
+	border: 1px solid #ccc;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	color: #333333;
+	font-size: 12px;
+}
+
+.mtextbox
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	border: thin solid #666666;
+}
+
+.ddlbox
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	border: thin solid #666666;
+}
+
+.ddlbox
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	border: thin solid #666666;
+	width: 100px;
+}
+.errormsg
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	color: #FF0000;
+}
+.errormsgx
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	color: #3D991F;
+}
+.hedding {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: bold;
+	color: #FF0000;
+	text-decoration: none;
+}
+.leftLinks {
+	font-weight: bold; 
+	font-size: 12px; 
+	color: #FF9900; 
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	text-decoration: none;
+}
+.leftLinks:active {
+	font-weight: bold; 
+	font-size: 12px; 
+	color:#FF9900;
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	text-decoration: none;
+}
+
+
+.leftLinks:hover {
+	font-weight: bold;
+	font-size: 12px;
+	color: #FF0000;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	text-decoration: none;
+}
+.Subhedding {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-style: normal;
+	font-weight: bold;	
+	text-decoration: none;
+	background-color: #CCCCCC;
+	float:left;
+	width:100%;
+	height:25px;
+}

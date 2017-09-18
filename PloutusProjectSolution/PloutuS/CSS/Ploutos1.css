@@ -1,0 +1,559 @@
+﻿
+
+
+
+/* headings */
+
+.headding
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: bold;
+	color: #FF0000;
+}
+.hd /*For Background Color*/
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: bold;
+	text-decoration: none;
+	background-color: #CCCCCC;
+	float: left;
+	width: 99%;
+}
+
+.h1, .h1 a, .h1 a:visited, .h1 a:hover
+{
+	font-size: 24px;
+	margin: 5px 0 5px 0;
+	background-color: inherit;
+	color: #CCCCCC;
+	text-decoration: none;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.h2
+{
+	position: relative;
+	font-size: 20px;
+	margin: 5px 0 5px 0;
+	background-color: inherit;
+	color: #CCCCCC;
+	text-decoration: none;
+	width: 100%;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+
+.h3
+{
+	position: relative;
+	font-size: 18px;
+	margin: 5px 0 5px 0;
+	background-color: inherit;
+	color: #CCCCCC;
+	text-decoration: none;
+	width: 100%;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.h4
+{
+	position: relative;
+	font-size: 16px;
+	margin: 5px 0 5px 0;
+	background-color: inherit;
+	color: #CCCCCC;
+	text-decoration: none;
+	width: 100%;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.h5
+{
+	position: relative;
+	font-size: 14px;
+	margin: 0;
+	padding: 0;
+	background-color: inherit;
+	color: #CCCCCC;
+	text-decoration: none;
+	width: 100%;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+/* Lables */
+
+.lbl
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	color: #333333;
+}
+
+.errmsg
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	color: #FF0000;
+}
+
+
+
+/* footer */
+
+#footer
+{
+	display: block;
+	clear: both;
+	font-size: 10px;
+	margin: 0 21% 0 22%;
+	padding: 5px 0 0 0;
+	color: #666666;
+}
+
+
+
+
+/* body text */
+
+
+body
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	background-color: #F5C700;
+}
+
+.bodytext
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #333333;
+	margin-top: 5px;
+	margin-right: 5px;
+}
+
+
+.bodytextbold
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #333333;
+	margin-top: 5px;
+	margin-right: 5px;
+	font-weight: bold;
+}
+
+
+/* buttons */
+
+
+.btn
+{
+	color: #333333;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	padding: 3px;
+	vertical-align: baseline;
+	cursor: pointer;
+	font-size: 12px;
+	font-weight: bold;
+	height: 28px;
+	width: 70px;
+}
+
+
+.btnbg
+{
+	color: #333333;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	padding: 3px;
+	vertical-align: baseline;
+	cursor: pointer;
+	font-size: 12px;
+	font-weight: bold;
+	height: 28px;
+	width: 100px;
+}
+
+
+
+
+/*Textboxes */
+
+.txtbox
+{
+	border: 1px Solid #757575;
+	color: #333333;
+	float: left;
+	outline: none;
+	font-size: 12px;
+	font-style: normal;
+	font-family: Arial, Helvetica, sans-serif;
+	vertical-align:bottom;
+	width: 160px;
+	height: 20px;
+}
+
+
+.mtxtbox
+{
+	border: 1px Solid #757575;
+	color: #333333;
+	float: left;
+	outline: none;
+	font-size: 12px;
+	font-style: normal;
+	font-family: Arial, Helvetica, sans-serif;
+	width: 160px;
+	height: 60px;
+}
+
+
+
+
+
+/* DropdownList*/
+
+
+.ddlbox
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	border: thin solid #666666;
+	width: 160px;
+}
+
+.ddlboxbg
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	border: thin solid #666666;
+	width: 225px;
+}
+
+
+
+
+/* HTML Pages*/
+
+.leftLinks
+{
+	font-weight: bold;
+	font-size: 12px;
+	color: #FF9900;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	text-decoration: none;
+}
+.leftLinks:active
+{
+	font-weight: bold;
+	font-size: 12px;
+	color: #FF9900;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	text-decoration: none;
+}
+
+
+.leftLinks:hover
+{
+	font-weight: bold;
+	font-size: 12px;
+	color: #FF0000;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	text-decoration: none;
+}
+
+
+
+/* Table */
+
+.tbl
+{
+	font-family: verdana,arial,sans-serif;
+	font-size: 11px;
+	border-collapse: collapse;
+	display: table;
+	width: 100%;
+	border: 1px solid #ccc;
+	padding: 5px;
+	text-align: justify;
+	border-spacing: 1px;
+	float: left;
+	text-align: left;
+}
+
+.tbl td
+{
+	padding: 5px;
+}
+
+
+
+/* Paragraph */
+
+.pgh
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: left;
+}
+.pgh1
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	text-align: left;
+}
+
+
+/*Panel*/
+
+.pnl
+{
+	padding: 10px;
+	border: 1px solid #ccc;
+}
+
+.pnl1
+{
+	padding: 10px;
+}
+
+
+
+/* Divisions*/
+
+
+.divmain
+{
+	border: 1px solid #ccc;
+	padding: 10px;
+	width: 98%;	
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.divrow
+{
+	display: table-row;
+	width: 90%;
+	float: left;
+	padding: 10px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.divcol
+{
+	display: table-column;
+	text-align: left;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.divmiddle
+{
+	border: 2px solid #CCCCCC;
+	padding: 10px;
+	width: 300px; /*border-radius:25px;*/
+	-moz-border-radius: 25px; /* Firefox 3.6 and earlier */
+	margin-top: 12px;
+	margin-left: 0px;
+	background-color: #FFFFFF;
+	height: 180px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+/*.rndcorner
+{
+	float: left;
+	padding: 10px;
+	text-align: left;
+	display: table-caption; background-color: #fcedbd;
+}*/
+
+
+
+/* GridView */
+
+
+.gridhead
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #757575;
+	background-color: #fce196;
+	height: 28px;
+}
+.grid-box-bor
+{
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+}
+
+.grid-sub-head
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #6a6a6a;
+	background-color: #fbecc2;
+}
+.grid-text
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	background-color: #fcf3d9;
+	height: 20px;
+}
+.grid-alt-clr
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	background-color: #FFFFFF;
+	height: 20px;
+}
+
+
+
+/* Data list*/
+
+.dtl-hd
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #757575;
+	background-color: #fce196;
+	height: 20px;
+}
+
+.dtl-alt-color
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	/*background-color: #FFFFFF;*/
+	height: 20px;
+}
+.dtl-fot
+{
+	background-color: #507CD1;
+	color: White;
+	
+}
+.dtl-itm
+{
+	background-color: #EFF3FB;
+	color:Black;
+	
+}
+.dtl-sel-itm
+{
+	background-color: #D1DDF1;
+	color: #333333;
+	
+}
+.Subhedding {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-style: normal;
+	font-weight: bold;	
+	text-decoration: none;
+	background-color: #CCCCCC;
+	float:left;
+	width:100%;
+	height:25px;
+}
+.tblLeft
+{
+	padding-left:40px; float:left;
+	}
+	.tbl-m
+        {
+            font-family: verdana,arial,sans-serif;
+            font-size: 11px;
+            border-collapse: collapse;
+            display: table;
+            width: 80%;
+            border: 1px solid #ccc;
+            padding: 5px;
+            text-align: justify;
+            text-align: left;
+            margin-left: 10%;
+            margin-right: 10%;
+        }
+        
+        .tbl-m td
+        {
+            padding: 5px;
+        }
+        
+        .tbl-s
+        {
+            font-family: verdana,arial,sans-serif;
+            font-size: 11px;
+            border-collapse: collapse;
+            display: table;
+            width: 50%;
+            margin-left: 25%;
+            margin-right: 25%;
+            border: 1px solid #ccc;
+            padding: 5px;
+            text-align: justify;
+            text-align: left;
+        }
+        
+        .tbl-s td
+        {
+            padding: 5px;
+        }
+        /* Written by venkat */
+        /*Start*/
+ .Maindiv1
+{
+	font-weight: 700; font-size: medium; font-family: Verdana;
+}
+    
+.Maindiv
+{
+	float: left; width: 630px; border: 1px solid silver;
+}
+.subdiv
+{
+	 width: 620px; padding: 5px;
+}
+.subdiv1
+{
+	float: left; width: 150px; text-align: left; font-weight: 700;
+}
+.subdiv2
+{
+	float: left; padding-left: 3px;
+}.subdiv5
+{
+	float: left; width: 336px; padding: 5px;
+}
+.subdiv3
+{
+    width:100%;
+    padding-left:15px;
+}
+/*End*/

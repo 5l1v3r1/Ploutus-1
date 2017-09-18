@@ -1,0 +1,32 @@
+﻿body
+{
+}
+
+.main-tbl
+{
+	display: table;
+	width: 1024;
+	border: 1px solid #ccc;
+	padding: 5px;
+	text-align: justify;
+	border-spacing: 5px;
+	float: left;
+	text-align: left;
+}
+.para-head
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+}
+.para-subhead
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+}
+.pnl
+{
+	padding: 10px;
+	border: 1px solid #ccc;
+}

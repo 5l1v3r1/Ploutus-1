@@ -1,0 +1,270 @@
+
+
+
+.ploutus-recom {
+	width: 529px;
+	margin-top: 150px;
+}
+
+body {background:#777777;font:normal 0.9em Arial; margin:0; padding:0; padding-bottom:60px;}
+
+
+.bodytext {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-style: normal;
+	color: #666666;
+	text-decoration: none;
+	line-height: 28px;
+	text-align: justify;
+}
+.copyrights {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	color: #FFFFFF;
+	border-bottom-width: thin;
+	border-bottom-style: solid;
+	border-bottom-color: #FF6600;
+}
+.headding {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: bold;
+	color: #CC3300;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+.bodytextbold {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-style: normal;
+	color: #FF0000;
+	text-decoration: none;
+	line-height: 0px;
+	text-align: justify;
+	font-weight: bold;
+}
+
+.copyrighrs-shoadowline {
+	width: 529px;
+	margin-top: 250px;
+	height: 29px;
+}
+
+.remember {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	color: #000000;
+	/*text-align: right;*/
+	vertical-align: top;
+}
+.forgot {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	color: #000000;
+	text-align: right;
+	vertical-align: top;
+	text-decoration: underline;
+}
+.maintablebor {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	color: #000000;
+	text-align: center;
+	vertical-align: top;
+	border: thin solid #bbbbbe;
+	min-height: 600px;
+	background-color: #fef7e6;
+}
+
+.sub-head-table-bor {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-style: normal;
+	color: #000000;
+	text-align: center;
+	vertical-align: top;
+	height: 200px;
+	background-color: #fef7e6;
+	margin-top: 1px;
+}
+
+oldertable {
+	height: 117px;
+	border: thin solid #99999a;
+	clear: none;
+}
+
+.footertable {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	color: #414141;
+	text-align: center;
+	vertical-align: middle;
+	height: 30px;
+	background-color: #f8c153;
+	padding-top: 10px;
+	margin-top: 1px;
+}
+
+.footertable {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	color: #414141;
+	text-align: center;
+	vertical-align: middle;
+	height: 30px;
+	background-color: #f8c153;
+	padding-top: 10px;
+	margin-top: 1px;
+}
+{
+-moz-box-shadow:inset 0px 1px 0px 0px #dcecfb;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #dcecfb;
+	box-shadow:inset 0px 1px 0px 0px #dcecfb;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #bddbfa), color-stop(1, #80b5ea) );
+	background:-moz-linear-gradient( center top, #bddbfa 5%, #80b5ea 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#bddbfa', endColorstr='#80b5ea');
+	background-color:#bddbfa;
+	-webkit-border-top-left-radius:0px;
+	-moz-border-radius-topleft:0px;
+	border-top-left-radius:0px;
+	-webkit-border-top-right-radius:0px;
+	-moz-border-radius-topright:0px;
+	border-top-right-radius:0px;
+	-webkit-border-bottom-right-radius:0px;
+	-moz-border-radius-bottomright:0px;
+	border-bottom-right-radius:0px;
+	-webkit-border-bottom-left-radius:0px;
+	-moz-border-radius-bottomleft:0px;
+	border-bottom-left-radius:0px;
+	text-indent:0;
+	border:1px solid #84bbf3;
+	display:inline-block;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	font-style:normal;
+	height:40px;
+	line-height:40px;
+	width:100px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #528ecc;
+}
+.buttons:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #80b5ea), color-stop(1, #bddbfa) );
+	background:-moz-linear-gradient( center top, #80b5ea 5%, #bddbfa 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#80b5ea', endColorstr='#bddbfa');
+	background-color:#80b5ea;
+}.buttons:active {
+	position:relative;
+	top:1px;
+}
+
+.topLinks {
+	font-weight: normal;
+	font-size: 14px;
+	color: #333333;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	text-decoration: none;
+}
+.topLinks:active {
+	font-weight: normal;
+	font-size: 14px;
+	color:#FFFFFF;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	text-decoration: none;
+}
+.topLinks:hover {
+	font-weight: normal;
+	font-size: 14px;
+	color: #FFFFFF;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	text-decoration: none;
+}
+.topLinks1 {
+	font-weight: normal;
+	font-size: 14px;
+	color: #333333;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	text-decoration: none;
+}
+.topLinks1:active {
+	font-weight: normal;
+	font-size: 14px;
+	color:#FFFFFF;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	text-decoration: none;
+}
+.topLinks:hover {
+	font-weight: normal;
+	font-size: 14px;
+	color: #FFFFFF;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	text-decoration: none;
+	}
+.nme-tme {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: bold;
+  color: #000000;
+  padding-top: 15px;
+  padding-right:10px;
+}
+.grdlnk {
+  font-weight: normal;
+  font-size: 12px;
+  color: #FF6600;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  text-decoration: none;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+}
+.grdlnk:active {
+  font-weight: normal;
+  font-size: 12px;
+  color:#FFFFFF;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  text-decoration: none;
+}
+.grdlnk:hover {
+  font-weight: normal;
+  font-size: 12px;
+  color: #0099FF;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  text-decoration: none;
+}
+.headding-blue {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: bold;
+  color: #003399;
+  padding-left: 10px;
+  padding-top: 15px;
+}
+.headding {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: bold;
+ /* color: #CC3300;*/
+ color: Black;
+  padding-right: 20px;
+  padding-left: 20px;
+  
+}
+
+

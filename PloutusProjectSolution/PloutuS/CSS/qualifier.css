@@ -1,0 +1,69 @@
+		
+		legend{
+			font-family:arial;
+			font-size:12pt;
+			font-weight:bold;
+		}
+		.required{
+			font-family:arial;
+			font-size:14pt;
+			font-weight:bold;
+			color:red;
+			
+		}
+		.qtext{
+			font-size:10pt;
+			font-weight:normal;
+			color:blue;
+			width: 200px;
+			}
+		.question{
+				font-weight:bolder;
+				width:700px;
+				
+				vertical-align:top;
+				}
+
+
+		#systemmsg
+		{
+		font-size: 22pt;
+		font-weight:bold;
+		color:blue;
+		padding: 20px;
+		font-size:18pt;
+
+		}
+
+
+		#transfer
+		{
+		font-size: 24pt;
+		font-weight:bold;
+		color:green;
+		padding: 20px;
+		font-size:18pt;
+		}
+		#transferAttorney{
+		font-size: 24pt;
+		font-weight:bold;
+		color:black;
+		padding: 25px;
+		font-size:18pt;
+
+		}
+
+		#notransfer
+		{
+		font-size: 24pt;
+		font-weight:bold;
+		color:red;
+		padding: 20px;
+		font-size:18pt;
+		}
+
+
+		#fieldset .close{
+		text-align:left;
+		font-size:12pt;
+		}

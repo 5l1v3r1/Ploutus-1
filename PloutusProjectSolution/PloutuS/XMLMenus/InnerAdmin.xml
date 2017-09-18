@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<menu>
+  <menuItem>
+    <text>Home</text>
+    <url>../Homepage.aspx</url>
+    <mouseoverimage>/Images/POINT05.ICO</mouseoverimage>
+  </menuItem>
+  <menuItem>
+    <text>Roles</text>
+    <url>RolesCreation.aspx</url>
+    <mouseoverimage>/Images/POINT05.ICO</mouseoverimage>
+  </menuItem>
+
+      <!--<menuItem>
+        <text>New Users</text>
+        <url>Reg.aspx</url>
+        <mouseoverimage>/Images/POINT05.ICO</mouseoverimage>
+      </menuItem>-->
+      <menuItem>
+        <text>Users</text>
+        <url>UsersDisplay.aspx</url>
+        <mouseoverimage>/Images/POINT05.ICO</mouseoverimage>
+      </menuItem>
+      <!--<menuItem>
+        <text>Edit</text>
+        <url>ModifyReg.aspx</url>
+        <mouseoverimage>/Images/POINT05.ICO</mouseoverimage>
+      </menuItem>-->
+
+  
+  <menuItem>
+    <text>Password Reset</text>
+    <url>ResetPwd.aspx</url>
+    <mouseoverimage>/Images/POINT05.ICO</mouseoverimage>
+  </menuItem>
+  <!--<menuItem>
+    <text>News Room</text>
+    <subMenu>
+      <menuItem>
+        <text>News Home</text>
+        <url>NewsOverView.aspx</url>
+        <mouseoverimage>/Images/POINT05.ICO</mouseoverimage>
+      </menuItem>  
+      <menuItem>
+        <text>News Modify/Delete</text>
+        <url>ModifyNews.aspx</url>
+        <mouseoverimage>/Images/POINT05.ICO</mouseoverimage>
+      </menuItem>
+    </subMenu>
+  </menuItem>-->
+</menu>

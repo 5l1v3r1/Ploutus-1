@@ -1,0 +1,65 @@
+
+.loginbg {
+	padding-top: 200px;
+	background-image: url(../images/loginimages/login-bg.gif);
+	background-repeat: no-repeat;
+	background-position: center 200px;
+	height: auto;
+	}
+.bottom {
+	height: auto;
+	padding-left:auto;
+	padding-top: 100px;
+	vertical-align:middle;
+}
+.logintable {
+	padding-top: 150px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+.copyrights {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #FFFFFF;
+}
+
+
+
+
+.menutext {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	color: #FFFFFF;
+	
+}
+
+.topLinks {
+	font-weight: normal;
+	font-size: 12px;
+	color: #FFFFFF;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	text-decoration: none
+}
+.topLinks:active {
+	font-weight: normal;
+	font-size: 12px;
+
+	color:#FF9933;
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	text-decoration: none
+}
+.topLinks:hover {
+	font-weight: normal;
+	font-size: 12px;
+	color: #000000;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	text-decoration: none
+}
+.body-table {
+	float: none;
+	height: auto;
+	width: 100%;
+	/*border: 2px solid #eda812;*/
+	margin: 0px;
+}

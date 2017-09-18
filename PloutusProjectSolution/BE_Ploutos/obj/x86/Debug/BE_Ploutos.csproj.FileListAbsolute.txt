@@ -1,0 +1,8 @@
+C:\Users\sunil.pathaneni.PIINTERNATIONAL\Desktop\Live\Ploutus Live\BE_Ploutos\bin\x86\Debug\BE_Ploutos.dll
+C:\Users\sunil.pathaneni.PIINTERNATIONAL\Desktop\Live\Ploutus Live\BE_Ploutos\bin\x86\Debug\BE_Ploutos.pdb
+C:\Users\sunil.pathaneni.PIINTERNATIONAL\Desktop\Live\Ploutus Live\BE_Ploutos\obj\x86\Debug\BE_Ploutos.dll
+C:\Users\sunil.pathaneni.PIINTERNATIONAL\Desktop\Live\Ploutus Live\BE_Ploutos\obj\x86\Debug\BE_Ploutos.pdb
+C:\Users\satya.pulavarty.PIINTERNATIONAL\Desktop\Ploutus Live\BE_Ploutos\bin\x86\Debug\BE_Ploutos.dll
+C:\Users\satya.pulavarty.PIINTERNATIONAL\Desktop\Ploutus Live\BE_Ploutos\bin\x86\Debug\BE_Ploutos.pdb
+C:\Users\satya.pulavarty.PIINTERNATIONAL\Desktop\Ploutus Live\BE_Ploutos\obj\x86\Debug\BE_Ploutos.dll
+C:\Users\satya.pulavarty.PIINTERNATIONAL\Desktop\Ploutus Live\BE_Ploutos\obj\x86\Debug\BE_Ploutos.pdb

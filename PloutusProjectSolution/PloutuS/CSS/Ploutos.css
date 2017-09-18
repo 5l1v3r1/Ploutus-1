@@ -1,0 +1,1224 @@
+﻿
+
+/* headings */
+
+.ddlboxsmall-post1
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    border: 1px Solid #757575;
+    color: #333333;
+    width: 115px;
+    height: 22px;
+}
+
+
+
+.headding
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: bold;
+    color: #FF0000;
+    padding-top: 30px;
+}
+.headding1
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: bold;
+    color: #FF0000;
+    padding-top: 30px;
+}
+.headding-bg
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: bold;
+    color: #FF0000;
+    padding-top: 10px;
+    background-color: #E8E8E8;
+}
+
+.Subhedding
+{
+    /*font-family: Verdana, Arial, Helvetica, sans-serif; 	font-size: 13px; 	font-style: normal; 	font-weight: bold;	 	text-decoration: none; 	background-color: #CCCCCC;	 	height:25px; 	padding-left:5px;*/
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: bold;
+    background-image: url(../images/header-bg.jpg);
+    background-repeat: repeat-x;
+    background-position: left center;
+    height: 30px;
+    padding-left: 10px;
+    margin: 0px;
+}
+.Gridhedding
+{
+    /*font-family: Verdana, Arial, Helvetica, sans-serif; 	font-size: 13px; 	font-style: normal; 	font-weight: bold;	 	text-decoration: none; 	background-color: #CCCCCC;	 	height:25px; 	padding-left:5px;*/
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: bold;
+    background-image: url(../images/header-bg.jpg);
+    background-repeat: repeat-x;
+    background-position: left center;
+    height: 30px;
+    margin: 0px;
+}
+
+
+.hd /*For Background Color*/
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: bold;
+    text-decoration: none;
+    background-color: #CCCCCC;
+    float: left;
+    width: 99%;
+}
+
+/* Lables */
+
+.lbl
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    color: #333333;
+}
+
+.lbl-b
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    color: #333333;
+    font-weight: bold;
+}
+
+.errmsg
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    font-style: normal;
+    color: #FF0000;
+}
+
+
+
+/* buttons */
+
+
+.btn
+{
+    color: #333333;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    padding: 3px;
+    vertical-align: baseline;
+    cursor: pointer;
+    font-size: 12px;
+    font-weight: bold;
+    height: 28px;
+}
+.editSavebtn
+{
+    color: #333333;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    padding: 3px;
+    vertical-align: baseline;
+    cursor: pointer;
+    font-size: 12px;
+    font-weight: bold;
+    height: 28px;
+}
+
+.btnbg
+{
+    color: #333333;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    padding: 3px;
+    vertical-align: baseline;
+    cursor: pointer;
+    font-size: 12px;
+    font-weight: bold;    
+}
+
+
+
+
+/*Textboxes */
+
+.txtbox
+{
+    border: 1px Solid #757575;
+    color: #333333;
+    float: left;
+    outline: none;
+    font-size: 12px;
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    vertical-align: bottom;
+    width: 160px;
+    height: 20px;
+}
+
+
+.mtxtbox
+{
+    border: 1px Solid #757575;
+    color: #333333;
+    float: left;
+    outline: none;
+    font-size: 12px;
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 160px;
+    height: 80px;
+}
+
+.txtbox-s
+{
+    border: 1px Solid #757575;
+    color: #333333;
+    float: left;
+    outline: none;
+    font-size: 12px;
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    vertical-align: bottom;
+    width: 30px;
+    height: 20px;
+}
+.txtbox-lrg
+{
+    border: 1px Solid #757575;
+    color: #333333;
+    float: left;
+    outline: none;
+    font-size: 12px;
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    vertical-align: bottom;
+    width: 250px;
+    height: 20px;
+}
+/* HyperLink*/
+.boxhead
+{
+    color: Blue;
+}
+
+
+/*List Box*/
+
+.lstbox
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    border: 1px Solid #757575;
+    color: #333333;
+    width: 165px;
+}
+
+/* DropdownList*/
+
+
+.ddlbox
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    border: 1px Solid #757575;
+    color: #333333;
+}
+
+.ddlboxm
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    border: 1px Solid #757575;
+    color: #333333;
+    width: 80px;
+}
+
+.ddlboxbg
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    border: 1px Solid #757575;
+    color: #333333;
+    width: 225px;
+}
+
+
+
+
+
+/* HTML Pages*/
+
+.leftLinks
+{
+    font-weight: bold;
+    font-size: 12px;
+    color: #000000;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+.leftLinks:active
+{
+    font-weight: bold;
+    font-size: 12px;
+    color: #FF9900;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+
+
+.leftLinks:hover
+{
+    font-weight: bold;
+    font-size: 12px;
+    color: #FF0000;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+
+.rounded-corners
+{
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -khtml-border-radius: 20px;
+    border-radius: 20px;
+}
+
+/* Table */
+
+.tbl
+{
+    /*font-family: verdana,arial,sans-serif; 	font-size: 12px;	 	border-collapse:collapse; 	display: table; 	 	border: 1px solid #ccc; 	 	text-align: left; 	color:#333333;	*/
+    text-align: left;
+    text-indent: 0px;
+    vertical-align: middle;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    border: 1px solid #b4b4b4;
+}
+
+.tbl td
+{
+    padding: 5px;
+    margin-left: 40px;
+}
+
+.tbl-m
+{
+    font-family: verdana,arial,sans-serif;
+    font-size: 12px;
+    border-collapse: collapse;
+    display: table;
+    width: 80%;
+    border: 1px solid #ccc;
+    padding: 5px;
+    text-align: left;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.tblLeft
+{
+    font-family: verdana,arial,sans-serif;
+    padding-left: 40px;
+    float: left;
+    font-size: 12px;
+    display: table;
+    text-align: left;
+}
+.tbl-m td
+{
+    padding: 5px;
+}
+
+.tbl-s
+{
+    font-family: verdana,arial,sans-serif;
+    font-size: 12px;
+    border-collapse: collapse;
+    display: table;
+    width: 50%;
+    border: 1px solid #ccc;
+    padding: 5px;
+    text-align: left;
+}
+
+.tbl-s td
+{
+    padding: 5px;
+}
+
+/* Paragraph */
+
+.pgh
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: left;
+}
+.pgh1
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: left;
+}
+.pgh2
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    text-align: left;
+}
+
+/*Panel*/
+
+.pnl
+{
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+.pnl1
+{
+    padding: 10px;
+}
+
+
+
+/* Divisions*/
+
+
+.divmain
+{
+    border: 1px solid #ccc;
+    padding: 10px;
+    width: 100%;
+    margin-top: 12px;
+    margin-left: 0px;
+    background-color: #fcedbd;
+    height: 180px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.divrow
+{
+    display: table-row;
+    width: 90%;
+    float: left;
+    padding: 10px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.divcol
+{
+    display: table-column;
+    text-align: left;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.divmiddle
+{
+    border: 2px solid #CCCCCC;
+    padding: 10px;
+    width: 300px; /*border-radius:25px;*/
+    -moz-border-radius: 25px; /* Firefox 3.6 and earlier */
+    margin-top: 12px;
+    margin-left: 0px;
+    background-color: #FFFFFF;
+    height: 180px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+
+
+
+/* GridView */
+
+
+.gridhead
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    color: #757575;
+    background-color: #fce196;
+    height: 28px;
+}
+.grid-box-bor
+{
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+}
+
+.grid-sub-head
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    color: #6a6a6a;
+    background-color: #fbecc2;
+}
+.grid-text
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    background-color: #fcf3d9;
+    height: 20px;
+}
+.grid-alt-clr
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    background-color: #FFFFFF;
+    height: 20px;
+}
+
+
+/* Data list*/
+
+.dtl-hd
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    color: #757575;
+    background-color: #fce196;
+    height: 20px;
+}
+
+.dtl-alt-color
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px; /*background-color: #FFFFFF;*/
+    height: 20px;
+}
+.dtl-fot
+{
+    background-color: #507CD1;
+    color: White;
+}
+.dtl-itm
+{
+    background-color: #EFF3FB;
+    color: Black;
+}
+.dtl-sel-itm
+{
+    background-color: #D1DDF1;
+    color: #333333;
+}
+
+
+
+/* Written by venkat */
+/*Start*/
+.Maindiv1
+{
+    font-weight: 700;
+    font-size: medium;
+    font-family: Verdana;
+}
+
+.Maindiv
+{
+    float: left;
+    width: 630px; /* border: 1px solid silver;*/
+}
+.subdiv
+{
+    width: 620px;
+    padding: 5px;
+}
+.subdiv1
+{
+    float: left;
+    width: 150px;
+    text-align: left;
+    font-weight: 700;
+}
+.subdiv2
+{
+    float: left;
+    padding-left: 3px;
+}
+.subdiv5
+{
+    float: left;
+    width: 336px;
+    padding: 5px;
+}
+.subdiv3
+{
+    width: 100%;
+    padding-left: 15px;
+}
+/*End*/
+
+.header
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #333333;
+    font-style: normal;
+    vertical-align: middle;
+    text-align: center;
+}
+/* Written by kumar */
+.txtbox-lrg-post
+{
+    border: 1px Solid #757575;
+    color: #333333;
+    float: left;
+    outline: none;
+    font-size: 12px;
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    vertical-align: bottom;
+    width: 300px;
+    height: 20px;
+}
+
+/* Written by kumar */
+.ddlboxsmall-post
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    border: 1px Solid #757575;
+    color: #333333;
+    width: 148px;
+}
+
+/* Written by kumar */
+.ddlboxbg-post
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    border: 1px Solid #757575;
+    color: #333333;
+    width: 300px;
+}
+.btnvbg
+{
+    color: #333333;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    padding: 3px;
+    vertical-align: baseline;
+    cursor: pointer;
+    font-size: 12px;
+    font-weight: bold;
+    height: 28px;
+    width: 130px;
+}
+.headding-c
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: bold;
+    color: #FF0000;
+    padding-top: 30px;
+}
+
+.lbl-sb
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    font-style: normal;
+    color: #333333;
+    font-weight: bold;
+}
+
+.tbl-bd
+{
+    font-family: verdana,arial,sans-serif;
+    font-size: 12px;
+    display: table;
+    text-align: left;
+    color: #333333;
+}
+
+
+/* Designed by	: C Sivaiah; Date: 2013-07-04 */
+
+
+.shearder-bg
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: bold;
+    background-image: url(../images/header-bg.jpg);
+    background-repeat: repeat-x;
+    background-position: left center;
+    height: 30px;
+    padding-left: 10px;
+    margin: 0px;
+}
+.stbl
+{
+    text-align: left;
+    text-indent: 0px;
+    vertical-align: middle;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    border: 1px solid #b4b4b4;
+    padding-left: 10px;
+}
+.sbtn-bg
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: bold;
+    color: #333333;
+    height: 31px;
+}
+
+.sbtn-main
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: bold;
+    color: #333333;
+    height: 31px;
+}
+
+.org-stbl
+{
+    text-align: left;
+    text-indent: 0px;
+    vertical-align: middle;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    border-bottom: 1px solid #FFC498;
+     border-left: 1px solid #FFC498;
+      border-right: 1px solid #FFC498;
+}
+.org-shearder-bg
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: bold;
+    background-color:#FFC498;
+    background-image: url(../images/org-header-bg.jpg);
+    background-repeat: repeat-x;
+    background-position: left center;
+    height: 30px;
+    padding-left: 10px;
+    margin: 0px;
+}
+.org-shearder-bgNew
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: bold;
+    background-color:#FFC498;
+  /*  background-image: url(../images/org-header-bg.jpg);
+    background-repeat: repeat-x;
+    background-position: left center;*/
+    height: 25px;
+    padding-left: 10px;
+    margin: 0px;
+}
+.redstar
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #FF0000;
+}
+.slog-border
+{
+    border: 1px solid #d7d7d7;
+}
+.sgrid-headiing-black
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    color: #000000; /*height: 30px;*/ /*padding-left: 15px; background-color: #fbdfb7;*/
+    vertical-align: middle;
+    text-align: left;
+    padding-top: 10px;
+}
+.sgrid-headiing-red
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    color: #FF0000; /*height: 30px;*/ /*padding-left: 15px; background-color: #fbdfb7;*/
+    vertical-align: middle;
+    text-align: left;
+    padding-top: 10px;
+}
+.sgrid-headiing-Green
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    color: #668014;
+    vertical-align: middle;
+    text-align: left;
+    padding-top: 10px;
+}
+.saltertext
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    background-color: #fdf0d7;
+    height:10px;
+    border-bottom: 1px solid #ffffff; /*padding-top: 10px; 	padding-left: 15px;*/
+}
+.saltertextgrd
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    background-color: #fdf0d7;
+    height: 10px;
+    padding-left: 5px;
+    border-bottom: 1px solid #ffffff; /*padding-top: 10px; 	padding-left: 15px;*/
+}
+.saltertext1
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    background-color: #fbdfb7;
+    height:5px;
+    border-bottom: 1px solid #ffffff; /*padding-top: 10px; 	padding-left: 15px;*/
+}
+.topLinks
+{
+    font-weight: normal;
+    font-size: 11px;
+    color: #333333;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    background-color: #FFFFFF;
+}
+.topLinks:active
+{
+    font-weight: normal;
+    font-size: 11px;
+    color: #FF9933;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    background-color: #FFFFFF;
+}
+.topLinks:hover
+{
+    font-weight: normal;
+    font-size: 11px;
+    color: #FF6600;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    background-color: #FFFFFF;
+}
+.stableborder
+{
+    border: 1px solid #CCCCCC;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    padding: 5px;
+}
+.why-ploutos
+{
+    border: 1px solid #CCCCCC;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    vertical-align: top;
+}
+
+
+/* Designed by	: C Sivaiah; Date: 2013-07-04 */
+
+
+/*Added on 07-05-2013*/
+
+
+.mtxtboxlrg
+{
+    border: 1px Solid #757575;
+    color: #333333;
+    float: left;
+    outline: none;
+    font-size: 12px;
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 230px;
+    height: 100px;
+}
+.txtbox-lrg1
+{
+    border: 1px Solid #757575;
+    color: #333333;
+    float: left;
+    outline: none;
+    font-size: 12px;
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    vertical-align: bottom;
+    width: 230px;
+    height: 20px;
+}
+
+.txtbox-s1
+{
+    border: 1px Solid #757575;
+    color: #333333;
+    float: left;
+    outline: none;
+    font-size: 12px;
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    vertical-align: bottom;
+    width: 50px;
+    height: 20px;
+    text-align: center;
+    margin-left: 0px;
+}
+
+.lstboxlrg
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    border: 1px Solid #757575;
+    color: #333333;
+    width: 233px;
+    height: 100px;
+}
+.lstboxlrg1
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    border: 1px Solid #757575;
+    color: #333333;
+    width: 231px;
+    height: 100px;
+}
+.lstbox
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    border: 1px Solid #757575;
+    color: #333333;
+    width: 300px;
+    height: 100px;
+}
+
+/*Radio Button*/
+.rdbtn
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    color: #333333;
+    width: 40px;
+}
+.rdbtn1
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    color: #333333;
+}
+.ddlboxlrg
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    border: 1px Solid #757575;
+    color: #333333;
+    width: 233px;
+    height: 22px;
+}
+
+.ddlboxsm
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    border: 1px Solid #757575;
+    color: #333333;
+    width: 40px;
+    height: 22px;
+}
+.ddlboxsm1
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    border: 1px Solid #757575;
+    color: #333333;
+    height: 22px;
+}
+/*.upprogressMain
+{
+	background-color: Black;
+	border: 0px;
+	position: absolute;
+	z-index: 9;
+	left: 0px;
+	top: 0px;
+	width: expression(this.offsetParent.scrollWidth);
+	height: expression(this.offsetParent.scrollHeight);
+	filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=75, FinishOpacity=0, Style=0, StartX=0, FinishX=100, StartY=0, FinishY=100);
+}
+.upprogress
+{
+	border: solid 1px black;
+	text-align: center;
+	width: 20%;
+	padding: 10px;
+	position: absolute;
+	z-index: 10;
+	background-color: White;
+	left: expression((this.offsetParent.clientWidth/2)-(this.clientWidth/2)+this.offsetParent.scrollLeft);
+	top: expression((this.offsetParent.clientHeight/2)-(this.clientHeight/2)+this.offsetParent.scrollTop);
+}*/
+.upprogressMain
+{
+    background-image: url('../Images/back.png' ); /*background-color:Silver;*/
+    opacity: 0.6;
+    border: 0px;
+    position: absolute;
+    z-index: 1500; /*left: 40%; 	top: 40%;*/
+    left: expression((this.offsetParent.clientWidth/2)-(this.clientWidth/2)+this.offsetParent.scrollLeft);
+    top: expression((this.offsetParent.clientHeight/2)-(this.clientHeight/2)+this.offsetParent.scrollTop);
+    width: 100%;
+    height: 300%;
+    filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=75, FinishOpacity=0, Style=0, StartX=0, FinishX=100, StartY=0, FinishY=100);
+}
+.upprogress
+{
+    border: solid 1px black;
+    text-align: center;
+    width: 20%;
+    padding: 10px;
+    position: absolute;
+    z-index: 1501;
+    background-color: White;
+    left: 40%;
+    top: 40%;
+    left: expression((this.offsetParent.clientWidth/2)-(this.clientWidth/2)+this.offsetParent.scrollLeft);
+    top: expression((this.offsetParent.clientHeight/2)-(this.clientHeight/2)+this.offsetParent.scrollTop);
+}
+.gridtbl
+{
+    text-align: left;
+    text-indent: 0px;
+    vertical-align: middle;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-style: normal;
+}
+.gridtbl td
+{
+    padding: 5px;
+}
+.bottomlinks
+{
+    text-align: left;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    padding-left: 10px;
+}
+
+
+
+/*09-08-2013*/
+.foot-hd
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    color: Red;
+}
+
+
+.commentstxt
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    font-style: normal;
+    color: #c5c5c5;
+    text-decoration: none;
+    text-align: left;
+}
+
+.ajaxpasscss
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    color: Red;
+    font-size: 12px;
+}
+.ajaxpasscss1
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    color: Blue;
+    font-size: 12px;
+}
+.ajaxpasscss2
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    color: Green;
+    font-size: 12px;
+}
+.lbl-RB
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    color: #FF0000;
+    font-weight: bold;
+}
+.ExtraLinks
+{
+    font-weight: normal;
+    font-size: 11px;
+    color: #333333;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    background-color: #FFFFFF;
+}
+.ddlboxsmall-post
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    border: 1px Solid #757575;
+    color: #333333;
+    width: 225px;
+    height: 22px;
+}
+.Watermark
+{
+    font-family: Verdana;
+    font-size: smaller;
+    font-variant: normal;
+    font-weight: lighter;
+    text-align: center;
+}
+.MainSearchDiv
+{
+    width: 924px;
+    height: 60px;
+    margin-left: 50px;
+    margin-top: 10px;
+    background: #e4e4e4;
+    border: 1px solid #c3c3c3;
+}
+.MainSearchDiv1
+{
+   
+    height: 60px;
+    margin-left: 0px;
+    margin-top: 10px;
+    /*background: #e4e4e4;*/
+     background: #ffcd85;
+    border: 1px solid #c3c3c3;
+}
+
+.SearchSubDiv1
+{
+    float: left;  
+    text-align: center;
+}
+.SearchSubDiv2
+{
+    float: left;
+    height: 60px;
+    padding-left: 30px;
+    width: 220px;
+    padding-left: 10px;
+    text-align: center;
+}
+
+.SearchSubDiv3
+{
+    float: left;
+    height: 60px;
+    padding-left: 50px;
+    width: 140px;
+    padding-left: 10px;
+    text-align: center;
+}
+.SearchSubDiv4
+{
+    float: left;
+    height: 60px;
+    padding-left: 50px;
+    width: 282px;
+    padding-left: 10px;
+    text-align: center;
+}
+.SSubDiv1
+{  
+    text-align: center;
+}
+.Inactive
+{
+    background-image: url('../Images/back.png' );
+    filter: alpha(opacity=70);
+    -moz-opacity: 0.6;
+    -khtml-opacity: 0.6;
+    opacity: 0.5;
+    background-color: #CCCCCC;
+}
+.modalBackground
+{
+    background-color: black;
+    filter: alpha(opacity=90);
+    opacity: 0.8;
+}
+.modalPopup
+{
+    background-color: black;
+    border-width: 3px;
+    border-style: solid;
+    border-color: White;
+    padding-top: 10px;
+    padding-left: 10px;
+    width: 300px;
+    height: 160px;
+}

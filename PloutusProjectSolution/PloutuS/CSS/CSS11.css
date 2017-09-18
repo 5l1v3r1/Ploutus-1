@@ -1,0 +1,47 @@
+﻿
+.modalBackground 
+{
+	background-image: url('Images/back.png' );
+	background-color:Gray;
+	filter:alpha(opacity=80);
+	opacity:0.5;
+	-moz-opacity: 0.5;
+	-khtml-opacity: 0.5;
+}
+.modalPopup {
+	background-color:White;
+	border-width:3px;
+	border-style:solid;
+	border-color:White;
+	padding-top:10px;
+	padding-left:10px;
+	width:300px;
+	height:160px;
+}
+.Inactive
+{
+	background-image: url('Images/back.png' );
+	filter: alpha(opacity=70);
+	-moz-opacity: 0.5;
+	-khtml-opacity: 0.5;
+	opacity: 0.5;
+	background-color:Gray;
+	
+}
+.Inactive1
+{
+	background-image: url('Images/back.png' );
+	filter: alpha(opacity=70);
+	-moz-opacity: 0.8;
+	-khtml-opacity: 0.8;
+	opacity: 0.5;
+	background-color:Navy;
+}
+.watermarked2
+{
+
+	background-color:White;
+	font-size:small;
+	font-style:oblique;
+	 font-weight:lighter;
+}

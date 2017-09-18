@@ -1,0 +1,14 @@
+C:\Users\sunil.pathaneni.PIINTERNATIONAL\Desktop\Live\Ploutus Live\DA_Ploutos\bin\x86\Debug\DA_Ploutos.dll
+C:\Users\sunil.pathaneni.PIINTERNATIONAL\Desktop\Live\Ploutus Live\DA_Ploutos\bin\x86\Debug\DA_Ploutos.pdb
+C:\Users\sunil.pathaneni.PIINTERNATIONAL\Desktop\Live\Ploutus Live\DA_Ploutos\bin\x86\Debug\BE_Ploutos.dll
+C:\Users\sunil.pathaneni.PIINTERNATIONAL\Desktop\Live\Ploutus Live\DA_Ploutos\bin\x86\Debug\BE_Ploutos.pdb
+C:\Users\sunil.pathaneni.PIINTERNATIONAL\Desktop\Live\Ploutus Live\DA_Ploutos\obj\x86\Debug\DA_Ploutos.csprojResolveAssemblyReference.cache
+C:\Users\sunil.pathaneni.PIINTERNATIONAL\Desktop\Live\Ploutus Live\DA_Ploutos\obj\x86\Debug\DA_Ploutos.dll
+C:\Users\sunil.pathaneni.PIINTERNATIONAL\Desktop\Live\Ploutus Live\DA_Ploutos\obj\x86\Debug\DA_Ploutos.pdb
+C:\Users\satya.pulavarty.PIINTERNATIONAL\Desktop\Ploutus Live\DA_Ploutos\bin\x86\Debug\DA_Ploutos.dll
+C:\Users\satya.pulavarty.PIINTERNATIONAL\Desktop\Ploutus Live\DA_Ploutos\bin\x86\Debug\DA_Ploutos.pdb
+C:\Users\satya.pulavarty.PIINTERNATIONAL\Desktop\Ploutus Live\DA_Ploutos\bin\x86\Debug\BE_Ploutos.dll
+C:\Users\satya.pulavarty.PIINTERNATIONAL\Desktop\Ploutus Live\DA_Ploutos\bin\x86\Debug\BE_Ploutos.pdb
+C:\Users\satya.pulavarty.PIINTERNATIONAL\Desktop\Ploutus Live\DA_Ploutos\obj\x86\Debug\DA_Ploutos.csprojResolveAssemblyReference.cache
+C:\Users\satya.pulavarty.PIINTERNATIONAL\Desktop\Ploutus Live\DA_Ploutos\obj\x86\Debug\DA_Ploutos.dll
+C:\Users\satya.pulavarty.PIINTERNATIONAL\Desktop\Ploutus Live\DA_Ploutos\obj\x86\Debug\DA_Ploutos.pdb

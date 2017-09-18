@@ -1,0 +1,61 @@
+﻿body {
+}
+.Maindivbody
+{
+    float: none; width: 100%; 
+}
+.Maindiv1
+{
+	font-weight: 700; font-size: medium; font-family: Verdana;
+}
+    
+.Maindiv
+{
+	float: left; width: 630px; 
+	/*border: 1px solid silver;*/
+}
+.subdiv
+{
+	 width: 620px; padding: 5px;
+}
+.subdiv1
+{
+	float: left; width: 150px; text-align: left; font-weight: 700;
+}
+.subdiv2
+{
+	float: left; padding-left: 3px;
+}
+.textbox4
+{
+	width:130px;
+	   
+}
+.textbox1
+{
+	width:160px;
+	   
+}
+.textbox2
+{
+	margin-left: 0px;
+}
+.subdiv5
+{
+	float: left; width: 336px; padding: 5px;
+}
+.Inactive
+{
+	background-image: url('~/Images/back.png' );
+	filter: alpha(opacity=70);
+	-moz-opacity: 0.5;
+	-khtml-opacity: 0.5;
+	opacity: 0.5;
+	background-color:Gray;
+	
+}
+.subdiv3
+{
+    width:100%;
+    padding-left:15px;
+}

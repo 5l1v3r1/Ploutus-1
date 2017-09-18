@@ -1,0 +1,57 @@
+
+.gridhead {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: Black;
+	background-color: #FFC498;	
+	height:28px;
+	
+}
+.grid-box-bor 
+{
+    border:1px solid silver;
+	
+}
+.search-text {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #000000;
+	
+	background-color: #e8e8e8;
+}
+.grid-sub-head {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #6a6a6a;
+	background-color: #fbecc2;
+	
+}
+.grig-text {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	background-color: #eae4d7;
+	height:27px;
+	
+	
+}
+.alternate-color {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	background-color: #fee8ce;
+	font-style: normal;
+	height:27px;
+	
+}
+.border-round-corner {
+border:1px solid;
+border-radius:10px;
+-moz-border-radius:10px; /* Old Firefox */
+}
+.copyrights {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #000000;
+	background-color: #999999;
+}

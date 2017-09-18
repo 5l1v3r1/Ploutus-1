@@ -1,0 +1,25 @@
+@charset "utf-8";
+.Acknowledgment_text p {
+}
+.Acknowledgment_text p {
+}
+.Acknowledgment_text p {
+}
+
+.Acknowledgment_text{
+	width: 900px;
+	text-align: justify;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	font: normal;
+	font-size: 14px;
+	line-height: 25px;
+	
+}
+.Acknowledgment_textheadding{
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	font: normal;
+	font-size: 16px;
+	line-height: 25px;
+	font-weight: bold;
+	
+} 

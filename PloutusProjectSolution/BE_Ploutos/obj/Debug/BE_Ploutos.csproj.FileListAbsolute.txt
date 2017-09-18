@@ -1,0 +1,288 @@
+C:\Documents and Settings\siva.sagar\Desktop\Tasks_06-24-2013\Ploutos_venkat_new\BE_Ploutos\bin\Debug\BE_Ploutos.dll
+C:\Documents and Settings\siva.sagar\Desktop\Tasks_06-24-2013\Ploutos_venkat_new\BE_Ploutos\bin\Debug\BE_Ploutos.pdb
+C:\Documents and Settings\siva.sagar\Desktop\Tasks_06-24-2013\Ploutos_venkat_new\BE_Ploutos\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\siva.sagar\Desktop\Tasks_06-24-2013\Ploutos_venkat_new\BE_Ploutos\obj\Debug\BE_Ploutos.dll
+C:\Documents and Settings\siva.sagar\Desktop\Tasks_06-24-2013\Ploutos_venkat_new\BE_Ploutos\obj\Debug\BE_Ploutos.pdb
+C:\Users\venkateswar.akula\Desktop\Ploutos_sagar_new\BE_Ploutos\bin\Debug\BE_Ploutos.dll
+C:\Users\venkateswar.akula\Desktop\Ploutos_sagar_new\BE_Ploutos\bin\Debug\BE_Ploutos.pdb
+C:\Users\venkateswar.akula\Desktop\Ploutos_sagar_new\BE_Ploutos\obj\Debug\BE_Ploutos.dll
+C:\Users\venkateswar.akula\Desktop\Ploutos_sagar_new\BE_Ploutos\obj\Debug\BE_Ploutos.pdb
+C:\Users\venkateswar.akula\Desktop\StaffingSolutions\BE_Ploutos\bin\Debug\BE_Ploutos.dll
+C:\Users\venkateswar.akula\Desktop\StaffingSolutions\BE_Ploutos\bin\Debug\BE_Ploutos.pdb
+C:\Users\venkateswar.akula\Desktop\StaffingSolutions\BE_Ploutos\obj\Debug\BE_Ploutos.dll
+C:\Users\venkateswar.akula\Desktop\StaffingSolutions\BE_Ploutos\obj\Debug\BE_Ploutos.pdb
+C:\Documents and Settings\siva.sagar\Desktop\Tasks_07-09-2013\StaffingSolutions\BE_Ploutos\bin\Debug\BE_Ploutos.dll
+C:\Documents and Settings\siva.sagar\Desktop\Tasks_07-09-2013\StaffingSolutions\BE_Ploutos\bin\Debug\BE_Ploutos.pdb
+C:\Documents and Settings\siva.sagar\Desktop\Tasks_07-09-2013\StaffingSolutions\BE_Ploutos\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\siva.sagar\Desktop\Tasks_07-09-2013\StaffingSolutions\BE_Ploutos\obj\Debug\BE_Ploutos.dll
+C:\Documents and Settings\siva.sagar\Desktop\Tasks_07-09-2013\StaffingSolutions\BE_Ploutos\obj\Debug\BE_Ploutos.pdb
+C:\Users\venkateswar.akula\Desktop\StaffingSolutions(10)\BE_Ploutos\bin\Debug\BE_Ploutos.dll
+C:\Users\venkateswar.akula\Desktop\StaffingSolutions(10)\BE_Ploutos\bin\Debug\BE_Ploutos.pdb
+C:\Users\venkateswar.akula\Desktop\StaffingSolutions(10)\BE_Ploutos\obj\Debug\BE_Ploutos.dll
+C:\Users\venkateswar.akula\Desktop\StaffingSolutions(10)\BE_Ploutos\obj\Debug\BE_Ploutos.pdb
+D:\Ploutos Projects\StaffingSolutions(10)\BE_Ploutos\bin\Debug\BE_Ploutos.dll
+D:\Ploutos Projects\StaffingSolutions(10)\BE_Ploutos\bin\Debug\BE_Ploutos.pdb
+D:\Ploutos Projects\StaffingSolutions(10)\BE_Ploutos\obj\Debug\BE_Ploutos.dll
+D:\Ploutos Projects\StaffingSolutions(10)\BE_Ploutos\obj\Debug\BE_Ploutos.pdb
+C:\Documents and Settings\NARASIMHA.MANNE\Desktop\StaffingSolutions(10)_29july_213\BE_Ploutos\bin\Debug\BE_Ploutos.dll
+C:\Documents and Settings\NARASIMHA.MANNE\Desktop\StaffingSolutions(10)_29july_213\BE_Ploutos\bin\Debug\BE_Ploutos.pdb
+C:\Documents and Settings\NARASIMHA.MANNE\Desktop\StaffingSolutions(10)_29july_213\BE_Ploutos\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NARASIMHA.MANNE\Desktop\StaffingSolutions(10)_29july_213\BE_Ploutos\obj\Debug\BE_Ploutos.dll
+C:\Documents and Settings\NARASIMHA.MANNE\Desktop\StaffingSolutions(10)_29july_213\BE_Ploutos\obj\Debug\BE_Ploutos.pdb
+C:\Users\venkateswar.akula\Desktop\StaffingSolutions(10)_29july_213\BE_Ploutos\bin\Debug\BE_Ploutos.dll
+C:\Users\venkateswar.akula\Desktop\StaffingSolutions(10)_29july_213\BE_Ploutos\bin\Debug\BE_Ploutos.pdb
+C:\Users\venkateswar.akula\Desktop\StaffingSolutions(10)_29july_213\BE_Ploutos\obj\Debug\BE_Ploutos.dll
+C:\Users\venkateswar.akula\Desktop\StaffingSolutions(10)_29july_213\BE_Ploutos\obj\Debug\BE_Ploutos.pdb
+C:\Documents and Settings\siva.sagar\Desktop\StaffingSolutions(10)_29july_213\BE_Ploutos\bin\Debug\BE_Ploutos.dll
+C:\Documents and Settings\siva.sagar\Desktop\StaffingSolutions(10)_29july_213\BE_Ploutos\bin\Debug\BE_Ploutos.pdb
+C:\Documents and Settings\siva.sagar\Desktop\StaffingSolutions(10)_29july_213\BE_Ploutos\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\siva.sagar\Desktop\StaffingSolutions(10)_29july_213\BE_Ploutos\obj\Debug\BE_Ploutos.dll
+C:\Documents and Settings\siva.sagar\Desktop\StaffingSolutions(10)_29july_213\BE_Ploutos\obj\Debug\BE_Ploutos.pdb
+C:\Documents and Settings\NARASIMHA.MANNE\Desktop\StaffingSolutions_Aug082013\BE_Ploutos\bin\Debug\BE_Ploutos.dll
+C:\Documents and Settings\NARASIMHA.MANNE\Desktop\StaffingSolutions_Aug082013\BE_Ploutos\bin\Debug\BE_Ploutos.pdb
+C:\Documents and Settings\NARASIMHA.MANNE\Desktop\StaffingSolutions_Aug082013\BE_Ploutos\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NARASIMHA.MANNE\Desktop\StaffingSolutions_Aug082013\BE_Ploutos\obj\Debug\BE_Ploutos.dll
+C:\Documents and Settings\NARASIMHA.MANNE\Desktop\StaffingSolutions_Aug082013\BE_Ploutos\obj\Debug\BE_Ploutos.pdb
+C:\Documents and Settings\krishna.manne\Desktop\StaffingSolutions_Aug082013_Latest\BE_Ploutos\bin\Debug\BE_Ploutos.dll
+C:\Documents and Settings\krishna.manne\Desktop\StaffingSolutions_Aug082013_Latest\BE_Ploutos\bin\Debug\BE_Ploutos.pdb
+C:\Documents and Settings\krishna.manne\Desktop\StaffingSolutions_Aug082013_Latest\BE_Ploutos\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\krishna.manne\Desktop\StaffingSolutions_Aug082013_Latest\BE_Ploutos\obj\Debug\BE_Ploutos.dll
+C:\Documents and Settings\krishna.manne\Desktop\StaffingSolutions_Aug082013_Latest\BE_Ploutos\obj\Debug\BE_Ploutos.pdb
+D:\StaffingSolutions_Aug082013_Latest\BE_Ploutos\bin\Debug\BE_Ploutos.dll
+D:\StaffingSolutions_Aug082013_Latest\BE_Ploutos\bin\Debug\BE_Ploutos.pdb
+D:\StaffingSolutions_Aug082013_Latest\BE_Ploutos\obj\Debug\BE_Ploutos.dll
+D:\StaffingSolutions_Aug082013_Latest\BE_Ploutos\obj\Debug\BE_Ploutos.pdb
+C:\Users\venkateswar.akula\Desktop\LIVE\StaffingSolutions_Aug082013_Latest\BE_Ploutos\bin\Debug\BE_Ploutos.dll
+C:\Users\venkateswar.akula\Desktop\LIVE\StaffingSolutions_Aug082013_Latest\BE_Ploutos\bin\Debug\BE_Ploutos.pdb
+C:\Users\venkateswar.akula\Desktop\LIVE\StaffingSolutions_Aug082013_Latest\BE_Ploutos\obj\Debug\BE_Ploutos.dll
+C:\Users\venkateswar.akula\Desktop\LIVE\StaffingSolutions_Aug082013_Latest\BE_Ploutos\obj\Debug\BE_Ploutos.pdb
+C:\Users\anil.dontineni\Desktop\StaffingSolutions_Aug082013_Latest\BE_Ploutos\bin\Debug\BE_Ploutos.dll
+C:\Users\anil.dontineni\Desktop\StaffingSolutions_Aug082013_Latest\BE_Ploutos\bin\Debug\BE_Ploutos.pdb
+C:\Users\anil.dontineni\Desktop\StaffingSolutions_Aug082013_Latest\BE_Ploutos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\anil.dontineni\Desktop\StaffingSolutions_Aug082013_Latest\BE_Ploutos\obj\Debug\BE_Ploutos.dll
+C:\Users\anil.dontineni\Desktop\StaffingSolutions_Aug082013_Latest\BE_Ploutos\obj\Debug\BE_Ploutos.pdb
+C:\Users\siva.sagar\Desktop\StaffingSolutions_oct12\BE_Ploutos\bin\Debug\BE_Ploutos.dll
+C:\Users\siva.sagar\Desktop\StaffingSolutions_oct12\BE_Ploutos\bin\Debug\BE_Ploutos.pdb
+C:\Users\siva.sagar\Desktop\StaffingSolutions_oct12\BE_Ploutos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\siva.sagar\Desktop\StaffingSolutions_oct12\BE_Ploutos\obj\Debug\BE_Ploutos.dll
+C:\Users\siva.sagar\Desktop\StaffingSolutions_oct12\BE_Ploutos\obj\Debug\BE_Ploutos.pdb
+F:\Test\10-29-2013\StaffingSolutions_10282013\BE_Ploutos\bin\Debug\BE_Ploutos.dll
+F:\Test\10-29-2013\StaffingSolutions_10282013\BE_Ploutos\bin\Debug\BE_Ploutos.pdb
+F:\Test\10-29-2013\StaffingSolutions_10282013\BE_Ploutos\obj\Debug\BE_Ploutos.dll
+F:\Test\10-29-2013\StaffingSolutions_10282013\BE_Ploutos\obj\Debug\BE_Ploutos.pdb
+C:\Users\siva.sagar\Desktop\tasks 10-29-2013\StaffingSolutions_10282013\BE_Ploutos\bin\Debug\BE_Ploutos.dll
+C:\Users\siva.sagar\Desktop\tasks 10-29-2013\StaffingSolutions_10282013\BE_Ploutos\bin\Debug\BE_Ploutos.pdb
+C:\Users\siva.sagar\Desktop\tasks 10-29-2013\StaffingSolutions_10282013\BE_Ploutos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\siva.sagar\Desktop\tasks 10-29-2013\StaffingSolutions_10282013\BE_Ploutos\obj\Debug\BE_Ploutos.dll
+C:\Users\siva.sagar\Desktop\tasks 10-29-2013\StaffingSolutions_10282013\BE_Ploutos\obj\Debug\BE_Ploutos.pdb
+C:\Users\venkateswar.akula\Desktop\10-30-2013\StaffingSolutions_10282013\BE_Ploutos\bin\Debug\BE_Ploutos.dll
+C:\Users\venkateswar.akula\Desktop\10-30-2013\StaffingSolutions_10282013\BE_Ploutos\bin\Debug\BE_Ploutos.pdb
+C:\Users\venkateswar.akula\Desktop\10-30-2013\StaffingSolutions_10282013\BE_Ploutos\obj\Debug\BE_Ploutos.dll
+C:\Users\venkateswar.akula\Desktop\10-30-2013\StaffingSolutions_10282013\BE_Ploutos\obj\Debug\BE_Ploutos.pdb
+C:\Users\siva.sagar\Desktop\StaffingSolutions_01092013\BE_Ploutos\bin\Debug\BE_Ploutos.dll
+C:\Users\siva.sagar\Desktop\StaffingSolutions_01092013\BE_Ploutos\bin\Debug\BE_Ploutos.pdb
+C:\Users\siva.sagar\Desktop\StaffingSolutions_01092013\BE_Ploutos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\siva.sagar\Desktop\StaffingSolutions_01092013\BE_Ploutos\obj\Debug\BE_Ploutos.dll
+C:\Users\siva.sagar\Desktop\StaffingSolutions_01092013\BE_Ploutos\obj\Debug\BE_Ploutos.pdb
+C:\Users\siva.sagar\Desktop\Tasks_11-01-2013\StaffingSolutions_01092013\BE_Ploutos\bin\Debug\BE_Ploutos.dll
+C:\Users\siva.sagar\Desktop\Tasks_11-01-2013\StaffingSolutions_01092013\BE_Ploutos\bin\Debug\BE_Ploutos.pdb
+C:\Users\siva.sagar\Desktop\Tasks_11-01-2013\StaffingSolutions_01092013\BE_Ploutos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\siva.sagar\Desktop\Tasks_11-01-2013\StaffingSolutions_01092013\BE_Ploutos\obj\Debug\BE_Ploutos.dll
+C:\Users\siva.sagar\Desktop\Tasks_11-01-2013\StaffingSolutions_01092013\BE_Ploutos\obj\Debug\BE_Ploutos.pdb
+C:\Users\venkateswar.akula\Desktop\StaffingSolutions_02092013\BE_Ploutos\bin\Debug\BE_Ploutos.dll
+C:\Users\venkateswar.akula\Desktop\StaffingSolutions_02092013\BE_Ploutos\bin\Debug\BE_Ploutos.pdb
+C:\Users\venkateswar.akula\Desktop\StaffingSolutions_02092013\BE_Ploutos\obj\Debug\BE_Ploutos.dll
+C:\Users\venkateswar.akula\Desktop\StaffingSolutions_02092013\BE_Ploutos\obj\Debug\BE_Ploutos.pdb
+C:\Users\siva.sagar\Desktop\Tasks_11-04-2013\StaffingSolutions_02092013\BE_Ploutos\bin\Debug\BE_Ploutos.dll
+C:\Users\siva.sagar\Desktop\Tasks_11-04-2013\StaffingSolutions_02092013\BE_Ploutos\bin\Debug\BE_Ploutos.pdb
+C:\Users\siva.sagar\Desktop\Tasks_11-04-2013\StaffingSolutions_02092013\BE_Ploutos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\siva.sagar\Desktop\Tasks_11-04-2013\StaffingSolutions_02092013\BE_Ploutos\obj\Debug\BE_Ploutos.dll
+C:\Users\siva.sagar\Desktop\Tasks_11-04-2013\StaffingSolutions_02092013\BE_Ploutos\obj\Debug\BE_Ploutos.pdb
+C:\Users\venkateswar.akula\Desktop\srv\StaffingSolutions_Nov6\BE_Ploutos\bin\Debug\BE_Ploutos.dll
+C:\Users\venkateswar.akula\Desktop\srv\StaffingSolutions_Nov6\BE_Ploutos\bin\Debug\BE_Ploutos.pdb
+C:\Users\venkateswar.akula\Desktop\srv\StaffingSolutions_Nov6\BE_Ploutos\obj\Debug\BE_Ploutos.dll
+C:\Users\venkateswar.akula\Desktop\srv\StaffingSolutions_Nov6\BE_Ploutos\obj\Debug\BE_Ploutos.pdb
+C:\Documents and Settings\NARASIMHA.MANNE\Desktop\StaffingSolutions_Nov12\BE_Ploutos\bin\Debug\BE_Ploutos.dll
+C:\Documents and Settings\NARASIMHA.MANNE\Desktop\StaffingSolutions_Nov12\BE_Ploutos\bin\Debug\BE_Ploutos.pdb
+C:\Documents and Settings\NARASIMHA.MANNE\Desktop\StaffingSolutions_Nov12\BE_Ploutos\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NARASIMHA.MANNE\Desktop\StaffingSolutions_Nov12\BE_Ploutos\obj\Debug\BE_Ploutos.dll
+C:\Documents and Settings\NARASIMHA.MANNE\Desktop\StaffingSolutions_Nov12\BE_Ploutos\obj\Debug\BE_Ploutos.pdb
+C:\Users\satya.pulavarty\Desktop\StaffingSolutions_Nov12 - Copy\BE_Ploutos\bin\Debug\BE_Ploutos.dll
+C:\Users\satya.pulavarty\Desktop\StaffingSolutions_Nov12 - Copy\BE_Ploutos\bin\Debug\BE_Ploutos.pdb
+C:\Users\satya.pulavarty\Desktop\StaffingSolutions_Nov12 - Copy\BE_Ploutos\obj\Debug\BE_Ploutos.dll
+C:\Users\satya.pulavarty\Desktop\StaffingSolutions_Nov12 - Copy\BE_Ploutos\obj\Debug\BE_Ploutos.pdb
+C:\Users\satya.pulavarty\Desktop\Latest_ploutos\BE_Ploutos\bin\Debug\BE_Ploutos.dll
+C:\Users\satya.pulavarty\Desktop\Latest_ploutos\BE_Ploutos\bin\Debug\BE_Ploutos.pdb
+C:\Users\satya.pulavarty\Desktop\Latest_ploutos\BE_Ploutos\obj\Debug\BE_Ploutos.dll
+C:\Users\satya.pulavarty\Desktop\Latest_ploutos\BE_Ploutos\obj\Debug\BE_Ploutos.pdb
+C:\Users\satya.pulavarty\Desktop\Latest_ploutos - Copy\BE_Ploutos\bin\Debug\BE_Ploutos.dll
+C:\Users\satya.pulavarty\Desktop\Latest_ploutos - Copy\BE_Ploutos\bin\Debug\BE_Ploutos.pdb
+C:\Users\satya.pulavarty\Desktop\Latest_ploutos - Copy\BE_Ploutos\obj\Debug\BE_Ploutos.dll
+C:\Users\satya.pulavarty\Desktop\Latest_ploutos - Copy\BE_Ploutos\obj\Debug\BE_Ploutos.pdb
+C:\Users\venkateswar.akula\Desktop\Latest_ploutos - Copy\BE_Ploutos\bin\Debug\BE_Ploutos.dll
+C:\Users\venkateswar.akula\Desktop\Latest_ploutos - Copy\BE_Ploutos\bin\Debug\BE_Ploutos.pdb
+C:\Users\venkateswar.akula\Desktop\Latest_ploutos - Copy\BE_Ploutos\obj\Debug\BE_Ploutos.dll
+C:\Users\venkateswar.akula\Desktop\Latest_ploutos - Copy\BE_Ploutos\obj\Debug\BE_Ploutos.pdb
+D:\Projects\Ploutos\27-01-2014\Latest_ploutos - Copy\BE_Ploutos\bin\Debug\BE_Ploutos.dll
+D:\Projects\Ploutos\27-01-2014\Latest_ploutos - Copy\BE_Ploutos\bin\Debug\BE_Ploutos.pdb
+D:\Projects\Ploutos\27-01-2014\Latest_ploutos - Copy\BE_Ploutos\obj\Debug\BE_Ploutos.dll
+D:\Projects\Ploutos\27-01-2014\Latest_ploutos - Copy\BE_Ploutos\obj\Debug\BE_Ploutos.pdb
+D:\Projects\Ploutos\07-02-2014\Latest_ploutos - Copy\BE_Ploutos\bin\Debug\BE_Ploutos.dll
+D:\Projects\Ploutos\07-02-2014\Latest_ploutos - Copy\BE_Ploutos\bin\Debug\BE_Ploutos.pdb
+D:\Projects\Ploutos\07-02-2014\Latest_ploutos - Copy\BE_Ploutos\obj\Debug\BE_Ploutos.dll
+D:\Projects\Ploutos\07-02-2014\Latest_ploutos - Copy\BE_Ploutos\obj\Debug\BE_Ploutos.pdb
+D:\Projects\Ploutos\28-04-2014\Latest_ploutos - Copy\BE_Ploutos\bin\Debug\BE_Ploutos.dll
+D:\Projects\Ploutos\28-04-2014\Latest_ploutos - Copy\BE_Ploutos\bin\Debug\BE_Ploutos.pdb
+D:\Projects\Ploutos\28-04-2014\Latest_ploutos - Copy\BE_Ploutos\obj\Debug\BE_Ploutos.dll
+D:\Projects\Ploutos\28-04-2014\Latest_ploutos - Copy\BE_Ploutos\obj\Debug\BE_Ploutos.pdb
+C:\Users\sunil.pathaneni\Desktop\Latest_ploutos - Copy\BE_Ploutos\bin\Debug\BE_Ploutos.dll
+C:\Users\sunil.pathaneni\Desktop\Latest_ploutos - Copy\BE_Ploutos\bin\Debug\BE_Ploutos.pdb
+C:\Users\sunil.pathaneni\Desktop\Latest_ploutos - Copy\BE_Ploutos\obj\Debug\BE_Ploutos.dll
+C:\Users\sunil.pathaneni\Desktop\Latest_ploutos - Copy\BE_Ploutos\obj\Debug\BE_Ploutos.pdb
+C:\inetpub\wwwroot\Latest_ploutos - Copy\BE_Ploutos\bin\Debug\BE_Ploutos.dll
+C:\inetpub\wwwroot\Latest_ploutos - Copy\BE_Ploutos\bin\Debug\BE_Ploutos.pdb
+C:\inetpub\wwwroot\Latest_ploutos - Copy\BE_Ploutos\obj\Debug\BE_Ploutos.dll
+C:\inetpub\wwwroot\Latest_ploutos - Copy\BE_Ploutos\obj\Debug\BE_Ploutos.pdb
+C:\Users\venkateswar.akula\Desktop\Srihari\Latest_ploutos - Copy\BE_Ploutos\bin\Debug\BE_Ploutos.dll
+C:\Users\venkateswar.akula\Desktop\Srihari\Latest_ploutos - Copy\BE_Ploutos\bin\Debug\BE_Ploutos.pdb
+C:\Users\venkateswar.akula\Desktop\Srihari\Latest_ploutos - Copy\BE_Ploutos\obj\Debug\BE_Ploutos.csprojResolveAssemblyReference.cache
+C:\Users\venkateswar.akula\Desktop\Srihari\Latest_ploutos - Copy\BE_Ploutos\obj\Debug\BE_Ploutos.dll
+C:\Users\venkateswar.akula\Desktop\Srihari\Latest_ploutos - Copy\BE_Ploutos\obj\Debug\BE_Ploutos.pdb
+E:\Latest_ploutos - Copy\BE_Ploutos\bin\Debug\BE_Ploutos.dll
+E:\Latest_ploutos - Copy\BE_Ploutos\bin\Debug\BE_Ploutos.pdb
+E:\Latest_ploutos - Copy\BE_Ploutos\obj\Debug\BE_Ploutos.dll
+E:\Latest_ploutos - Copy\BE_Ploutos\obj\Debug\BE_Ploutos.pdb
+E:\Latest_ploutos - Copy\BE_Ploutos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\venkateswar.akula\Desktop\venkat\1111\Latest_ploutos - Copy\BE_Ploutos\bin\Debug\BE_Ploutos.dll
+C:\Users\venkateswar.akula\Desktop\venkat\1111\Latest_ploutos - Copy\BE_Ploutos\bin\Debug\BE_Ploutos.pdb
+C:\Users\venkateswar.akula\Desktop\venkat\1111\Latest_ploutos - Copy\BE_Ploutos\obj\Debug\BE_Ploutos.dll
+C:\Users\venkateswar.akula\Desktop\venkat\1111\Latest_ploutos - Copy\BE_Ploutos\obj\Debug\BE_Ploutos.pdb
+C:\Users\venkateswar.akula\Desktop\Chakri\Latest_ploutos - Copy\BE_Ploutos\bin\Debug\BE_Ploutos.dll
+C:\Users\venkateswar.akula\Desktop\Chakri\Latest_ploutos - Copy\BE_Ploutos\bin\Debug\BE_Ploutos.pdb
+C:\Users\venkateswar.akula\Desktop\Chakri\Latest_ploutos - Copy\BE_Ploutos\obj\Debug\BE_Ploutos.dll
+C:\Users\venkateswar.akula\Desktop\Chakri\Latest_ploutos - Copy\BE_Ploutos\obj\Debug\BE_Ploutos.pdb
+E:\database bkp 12 09 2014\Chakri\Latest_ploutos - Copy\BE_Ploutos\bin\Debug\BE_Ploutos.dll
+E:\database bkp 12 09 2014\Chakri\Latest_ploutos - Copy\BE_Ploutos\bin\Debug\BE_Ploutos.pdb
+E:\database bkp 12 09 2014\Chakri\Latest_ploutos - Copy\BE_Ploutos\obj\Debug\ResolveAssemblyReference.cache
+E:\database bkp 12 09 2014\Chakri\Latest_ploutos - Copy\BE_Ploutos\obj\Debug\BE_Ploutos.dll
+E:\database bkp 12 09 2014\Chakri\Latest_ploutos - Copy\BE_Ploutos\obj\Debug\BE_Ploutos.pdb
+D:\LatestModual\Latest_ploutos - Copy\BE_Ploutos\bin\Debug\BE_Ploutos.dll
+D:\LatestModual\Latest_ploutos - Copy\BE_Ploutos\bin\Debug\BE_Ploutos.pdb
+D:\LatestModual\Latest_ploutos - Copy\BE_Ploutos\obj\Debug\ResolveAssemblyReference.cache
+D:\LatestModual\Latest_ploutos - Copy\BE_Ploutos\obj\Debug\BE_Ploutos.dll
+D:\LatestModual\Latest_ploutos - Copy\BE_Ploutos\obj\Debug\BE_Ploutos.pdb
+C:\Users\srihari.movva\Desktop\LatestModual\Latest_ploutos - Copy\BE_Ploutos\bin\Debug\BE_Ploutos.dll
+C:\Users\srihari.movva\Desktop\LatestModual\Latest_ploutos - Copy\BE_Ploutos\bin\Debug\BE_Ploutos.pdb
+C:\Users\srihari.movva\Desktop\LatestModual\Latest_ploutos - Copy\BE_Ploutos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\srihari.movva\Desktop\LatestModual\Latest_ploutos - Copy\BE_Ploutos\obj\Debug\BE_Ploutos.dll
+C:\Users\srihari.movva\Desktop\LatestModual\Latest_ploutos - Copy\BE_Ploutos\obj\Debug\BE_Ploutos.pdb
+D:\Latest_ploutos - Copy\BE_Ploutos\bin\Debug\BE_Ploutos.dll
+D:\Latest_ploutos - Copy\BE_Ploutos\bin\Debug\BE_Ploutos.pdb
+D:\Latest_ploutos - Copy\BE_Ploutos\obj\Debug\ResolveAssemblyReference.cache
+D:\Latest_ploutos - Copy\BE_Ploutos\obj\Debug\BE_Ploutos.dll
+D:\Latest_ploutos - Copy\BE_Ploutos\obj\Debug\BE_Ploutos.pdb
+C:\Users\srihari.movva\Desktop\ploutous\Latest_ploutos - Copy\BE_Ploutos\bin\Debug\BE_Ploutos.dll
+C:\Users\srihari.movva\Desktop\ploutous\Latest_ploutos - Copy\BE_Ploutos\bin\Debug\BE_Ploutos.pdb
+C:\Users\srihari.movva\Desktop\ploutous\Latest_ploutos - Copy\BE_Ploutos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\srihari.movva\Desktop\ploutous\Latest_ploutos - Copy\BE_Ploutos\obj\Debug\BE_Ploutos.dll
+C:\Users\srihari.movva\Desktop\ploutous\Latest_ploutos - Copy\BE_Ploutos\obj\Debug\BE_Ploutos.pdb
+D:\ploutous\Latest_ploutos - Copy\BE_Ploutos\bin\Debug\BE_Ploutos.dll
+D:\ploutous\Latest_ploutos - Copy\BE_Ploutos\bin\Debug\BE_Ploutos.pdb
+D:\ploutous\Latest_ploutos - Copy\BE_Ploutos\obj\Debug\ResolveAssemblyReference.cache
+D:\ploutous\Latest_ploutos - Copy\BE_Ploutos\obj\Debug\BE_Ploutos.dll
+D:\ploutous\Latest_ploutos - Copy\BE_Ploutos\obj\Debug\BE_Ploutos.pdb
+D:\PloutusNew\Latest_ploutos - Copy\BE_Ploutos\bin\Debug\BE_Ploutos.dll
+D:\PloutusNew\Latest_ploutos - Copy\BE_Ploutos\bin\Debug\BE_Ploutos.pdb
+D:\PloutusNew\Latest_ploutos - Copy\BE_Ploutos\obj\Debug\ResolveAssemblyReference.cache
+D:\PloutusNew\Latest_ploutos - Copy\BE_Ploutos\obj\Debug\BE_Ploutos.dll
+D:\PloutusNew\Latest_ploutos - Copy\BE_Ploutos\obj\Debug\BE_Ploutos.pdb
+E:\Rajesh\latestPloutus\1-2-2015\Latest_ploutos\BE_Ploutos\bin\Debug\BE_Ploutos.dll
+E:\Rajesh\latestPloutus\1-2-2015\Latest_ploutos\BE_Ploutos\bin\Debug\BE_Ploutos.pdb
+E:\Rajesh\latestPloutus\1-2-2015\Latest_ploutos\BE_Ploutos\obj\Debug\BE_Ploutos.dll
+E:\Rajesh\latestPloutus\1-2-2015\Latest_ploutos\BE_Ploutos\obj\Debug\BE_Ploutos.pdb
+C:\Users\rajesh.yadlapalli\Desktop\Latest_ploutos-1-3-2015\BE_Ploutos\bin\Debug\BE_Ploutos.dll
+C:\Users\rajesh.yadlapalli\Desktop\Latest_ploutos-1-3-2015\BE_Ploutos\bin\Debug\BE_Ploutos.pdb
+C:\Users\rajesh.yadlapalli\Desktop\Latest_ploutos-1-3-2015\BE_Ploutos\obj\Debug\BE_Ploutos.dll
+C:\Users\rajesh.yadlapalli\Desktop\Latest_ploutos-1-3-2015\BE_Ploutos\obj\Debug\BE_Ploutos.pdb
+D:\rajesh\latest_Ploutos_1-8-2015\BE_Ploutos\bin\Debug\BE_Ploutos.dll
+D:\rajesh\latest_Ploutos_1-8-2015\BE_Ploutos\bin\Debug\BE_Ploutos.pdb
+D:\rajesh\latest_Ploutos_1-8-2015\BE_Ploutos\obj\Debug\BE_Ploutos.dll
+D:\rajesh\latest_Ploutos_1-8-2015\BE_Ploutos\obj\Debug\BE_Ploutos.pdb
+D:\Rajesh-Ploutus-LatestUpdates\latest_Ploutos_1-10-2015\BE_Ploutos\bin\Debug\BE_Ploutos.dll
+D:\Rajesh-Ploutus-LatestUpdates\latest_Ploutos_1-10-2015\BE_Ploutos\bin\Debug\BE_Ploutos.pdb
+D:\Rajesh-Ploutus-LatestUpdates\latest_Ploutos_1-10-2015\BE_Ploutos\obj\Debug\BE_Ploutos.dll
+D:\Rajesh-Ploutus-LatestUpdates\latest_Ploutos_1-10-2015\BE_Ploutos\obj\Debug\BE_Ploutos.pdb
+C:\Users\rajesh.yadlapalli\Desktop\latest_Ploutos_2-3-2015\BE_Ploutos\bin\Debug\BE_Ploutos.dll
+C:\Users\rajesh.yadlapalli\Desktop\latest_Ploutos_2-3-2015\BE_Ploutos\bin\Debug\BE_Ploutos.pdb
+C:\Users\rajesh.yadlapalli\Desktop\latest_Ploutos_2-3-2015\BE_Ploutos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rajesh.yadlapalli\Desktop\latest_Ploutos_2-3-2015\BE_Ploutos\obj\Debug\BE_Ploutos.dll
+C:\Users\rajesh.yadlapalli\Desktop\latest_Ploutos_2-3-2015\BE_Ploutos\obj\Debug\BE_Ploutos.pdb
+C:\Users\rajesh.yadlapalli\Desktop\latest_Ploutos_2-4-2015\BE_Ploutos\bin\Debug\BE_Ploutos.dll
+C:\Users\rajesh.yadlapalli\Desktop\latest_Ploutos_2-4-2015\BE_Ploutos\bin\Debug\BE_Ploutos.pdb
+C:\Users\rajesh.yadlapalli\Desktop\latest_Ploutos_2-4-2015\BE_Ploutos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rajesh.yadlapalli\Desktop\latest_Ploutos_2-4-2015\BE_Ploutos\obj\Debug\BE_Ploutos.dll
+C:\Users\rajesh.yadlapalli\Desktop\latest_Ploutos_2-4-2015\BE_Ploutos\obj\Debug\BE_Ploutos.pdb
+C:\Users\rajesh.yadlapalli\Desktop\Latest_Ploutus\latest_Ploutos_2-8-2015\BE_Ploutos\bin\Debug\BE_Ploutos.dll
+C:\Users\rajesh.yadlapalli\Desktop\Latest_Ploutus\latest_Ploutos_2-8-2015\BE_Ploutos\bin\Debug\BE_Ploutos.pdb
+C:\Users\rajesh.yadlapalli\Desktop\Latest_Ploutus\latest_Ploutos_2-8-2015\BE_Ploutos\obj\Debug\BE_Ploutos.dll
+C:\Users\rajesh.yadlapalli\Desktop\Latest_Ploutus\latest_Ploutos_2-8-2015\BE_Ploutos\obj\Debug\BE_Ploutos.pdb
+C:\Users\rajesh.yadlapalli\Desktop\Latest_Ploutus\latest_Ploutos_2-12-2015\BE_Ploutos\bin\Debug\BE_Ploutos.dll
+C:\Users\rajesh.yadlapalli\Desktop\Latest_Ploutus\latest_Ploutos_2-12-2015\BE_Ploutos\bin\Debug\BE_Ploutos.pdb
+C:\Users\rajesh.yadlapalli\Desktop\Latest_Ploutus\latest_Ploutos_2-12-2015\BE_Ploutos\obj\Debug\BE_Ploutos.dll
+C:\Users\rajesh.yadlapalli\Desktop\Latest_Ploutus\latest_Ploutos_2-12-2015\BE_Ploutos\obj\Debug\BE_Ploutos.pdb
+C:\Users\rajesh.yadlapalli\Desktop\latest_Ploutos_2-19-2015\BE_Ploutos\bin\Debug\BE_Ploutos.dll
+C:\Users\rajesh.yadlapalli\Desktop\latest_Ploutos_2-19-2015\BE_Ploutos\bin\Debug\BE_Ploutos.pdb
+C:\Users\rajesh.yadlapalli\Desktop\latest_Ploutos_2-19-2015\BE_Ploutos\obj\Debug\BE_Ploutos.dll
+C:\Users\rajesh.yadlapalli\Desktop\latest_Ploutos_2-19-2015\BE_Ploutos\obj\Debug\BE_Ploutos.pdb
+C:\Users\rajesh.yadlapalli\Desktop\Live\BE_Ploutos\bin\Debug\BE_Ploutos.dll
+C:\Users\rajesh.yadlapalli\Desktop\Live\BE_Ploutos\bin\Debug\BE_Ploutos.pdb
+C:\Users\rajesh.yadlapalli\Desktop\Live\BE_Ploutos\obj\Debug\BE_Ploutos.dll
+C:\Users\rajesh.yadlapalli\Desktop\Live\BE_Ploutos\obj\Debug\BE_Ploutos.pdb
+C:\Users\rajesh.yadlapalli\Desktop\Live_BackUp_3-3-2015\Live\BE_Ploutos\bin\Debug\BE_Ploutos.dll
+C:\Users\rajesh.yadlapalli\Desktop\Live_BackUp_3-3-2015\Live\BE_Ploutos\bin\Debug\BE_Ploutos.pdb
+C:\Users\rajesh.yadlapalli\Desktop\Live_BackUp_3-3-2015\Live\BE_Ploutos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rajesh.yadlapalli\Desktop\Live_BackUp_3-3-2015\Live\BE_Ploutos\obj\Debug\BE_Ploutos.dll
+C:\Users\rajesh.yadlapalli\Desktop\Live_BackUp_3-3-2015\Live\BE_Ploutos\obj\Debug\BE_Ploutos.pdb
+C:\Users\siva.sagar\Desktop\Live\BE_Ploutos\bin\Debug\BE_Ploutos.dll
+C:\Users\siva.sagar\Desktop\Live\BE_Ploutos\bin\Debug\BE_Ploutos.pdb
+C:\Users\siva.sagar\Desktop\Live\BE_Ploutos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\siva.sagar\Desktop\Live\BE_Ploutos\obj\Debug\BE_Ploutos.dll
+C:\Users\siva.sagar\Desktop\Live\BE_Ploutos\obj\Debug\BE_Ploutos.pdb
+C:\Users\rajesh.yadlapalli\Desktop\Live\BE_Ploutos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rajesh.yadlapalli\Desktop\Live -Test\BE_Ploutos\bin\Debug\BE_Ploutos.dll
+C:\Users\rajesh.yadlapalli\Desktop\Live -Test\BE_Ploutos\bin\Debug\BE_Ploutos.pdb
+C:\Users\rajesh.yadlapalli\Desktop\Live -Test\BE_Ploutos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rajesh.yadlapalli\Desktop\Live -Test\BE_Ploutos\obj\Debug\BE_Ploutos.dll
+C:\Users\rajesh.yadlapalli\Desktop\Live -Test\BE_Ploutos\obj\Debug\BE_Ploutos.pdb
+C:\Users\rajesh.yadlapalli\Desktop\Live -Test\live-27-03-15\BE_Ploutos\bin\Debug\BE_Ploutos.dll
+C:\Users\rajesh.yadlapalli\Desktop\Live -Test\live-27-03-15\BE_Ploutos\bin\Debug\BE_Ploutos.pdb
+C:\Users\rajesh.yadlapalli\Desktop\Live -Test\live-27-03-15\BE_Ploutos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rajesh.yadlapalli\Desktop\Live -Test\live-27-03-15\BE_Ploutos\obj\Debug\BE_Ploutos.dll
+C:\Users\rajesh.yadlapalli\Desktop\Live -Test\live-27-03-15\BE_Ploutos\obj\Debug\BE_Ploutos.pdb
+C:\Users\sunil.pathaneni.PIINTERNATIONAL\Desktop\Ploutus Live\live-27-03-15\BE_Ploutos\bin\Debug\BE_Ploutos.dll
+C:\Users\sunil.pathaneni.PIINTERNATIONAL\Desktop\Ploutus Live\live-27-03-15\BE_Ploutos\bin\Debug\BE_Ploutos.pdb
+C:\Users\sunil.pathaneni.PIINTERNATIONAL\Desktop\Ploutus Live\live-27-03-15\BE_Ploutos\obj\Debug\BE_Ploutos.dll
+C:\Users\sunil.pathaneni.PIINTERNATIONAL\Desktop\Ploutus Live\live-27-03-15\BE_Ploutos\obj\Debug\BE_Ploutos.pdb
+C:\Users\sunil.pathaneni.PIINTERNATIONAL\Desktop\Ploutus Live\Live\BE_Ploutos\bin\Debug\BE_Ploutos.dll
+C:\Users\sunil.pathaneni.PIINTERNATIONAL\Desktop\Ploutus Live\Live\BE_Ploutos\bin\Debug\BE_Ploutos.pdb
+C:\Users\sunil.pathaneni.PIINTERNATIONAL\Desktop\Ploutus Live\Live\BE_Ploutos\obj\Debug\BE_Ploutos.dll
+C:\Users\sunil.pathaneni.PIINTERNATIONAL\Desktop\Ploutus Live\Live\BE_Ploutos\obj\Debug\BE_Ploutos.pdb
+C:\Users\sunil.pathaneni.PIINTERNATIONAL\Desktop\Ploutus Live\Live\BE_Ploutos\obj\Debug\BE_Ploutos.csprojResolveAssemblyReference.cache
+C:\Users\rajesh.yadlapalli\Desktop\Live_29-4-2015\BE_Ploutos\bin\Debug\BE_Ploutos.dll
+C:\Users\rajesh.yadlapalli\Desktop\Live_29-4-2015\BE_Ploutos\bin\Debug\BE_Ploutos.pdb
+C:\Users\rajesh.yadlapalli\Desktop\Live_29-4-2015\BE_Ploutos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rajesh.yadlapalli\Desktop\Live_29-4-2015\BE_Ploutos\obj\Debug\BE_Ploutos.dll
+C:\Users\rajesh.yadlapalli\Desktop\Live_29-4-2015\BE_Ploutos\obj\Debug\BE_Ploutos.pdb
+C:\Users\satya.pulavarty\Desktop\Ploutus Class\BE_Ploutos\bin\Debug\BE_Ploutos.dll
+C:\Users\satya.pulavarty\Desktop\Ploutus Class\BE_Ploutos\bin\Debug\BE_Ploutos.pdb
+C:\Users\satya.pulavarty\Desktop\Ploutus Class\BE_Ploutos\obj\Debug\BE_Ploutos.csprojResolveAssemblyReference.cache
+C:\Users\satya.pulavarty\Desktop\Ploutus Class\BE_Ploutos\obj\Debug\BE_Ploutos.dll
+C:\Users\satya.pulavarty\Desktop\Ploutus Class\BE_Ploutos\obj\Debug\BE_Ploutos.pdb
+D:\PloutusProjectSolution\BE_Ploutos\bin\Debug\BE_Ploutos.dll
+D:\PloutusProjectSolution\BE_Ploutos\bin\Debug\BE_Ploutos.pdb
+D:\PloutusProjectSolution\BE_Ploutos\obj\Debug\BE_Ploutos.dll
+D:\PloutusProjectSolution\BE_Ploutos\obj\Debug\BE_Ploutos.pdb
+F:\PloutusProjectSolution\BE_Ploutos\bin\Debug\BE_Ploutos.dll
+F:\PloutusProjectSolution\BE_Ploutos\bin\Debug\BE_Ploutos.pdb
+F:\PloutusProjectSolution\BE_Ploutos\obj\Debug\BE_Ploutos.dll
+F:\PloutusProjectSolution\BE_Ploutos\obj\Debug\BE_Ploutos.pdb
